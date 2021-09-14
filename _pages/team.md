@@ -1,5 +1,5 @@
 ---
-title: "DBab - Team"
+title: "DBLab - Team"
 layout: gridlay
 excerpt: "DBLab: Team members"
 sitemap: false
@@ -11,7 +11,20 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students).
+
+## Professor
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Wook-Shin Han</h4>
+  <i>Professor
+  <ul style="overflow: hidden">
+  <li><a href="{{ site.url }}{{ site.baseurl }}/professor">Detailed Information</a></li>
+  </ul>
+</div>
+</div>
 
 ## Research Professor
 {% assign number_printed = 0 %}
@@ -77,7 +90,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Post Doc
+## Post Doc.
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
