@@ -54,8 +54,6 @@ We are proud of strong publication records in top database venues such as SIGMOD
   </a>
 </div>
 
-TODO: will be written by wshan
-
 <figure class="first">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_POSTECH.png" style="width: 210px; display: block; margin-left: auto; margin-right: auto">
 </figure>
