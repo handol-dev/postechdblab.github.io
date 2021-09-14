@@ -1,5 +1,5 @@
 ---
-title: "DBLAB - AOA"
+title: "Database & Data Mining Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

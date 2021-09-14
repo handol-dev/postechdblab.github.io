@@ -1,7 +1,7 @@
 ---
-title: "DBLab - Home"
+title: "Database & Data Mining Lab - Home"
 layout: homelay
-excerpt: "DBLab at POSTECH."
+excerpt: "Database & Data Mining Lab at POSTECH."
 sitemap: false
 permalink: /
 ---
@@ -55,5 +55,10 @@ We are proud of strong publication records in top database venues such as SIGMOD
 </div>
 
 <figure class="first">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_POSTECH.png" style="width: 210px; display: block; margin-left: auto; margin-right: auto">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_oracle.png" style="width: 180px; ">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_sap.png" style="width: 180px; ">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_samsung.png" style="width: 180px; ">
 </figure>
+
+<br/>
+<br/>
