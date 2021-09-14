@@ -1,7 +1,7 @@
 ---
-title: "DBLab - Team"
+title: "Database & Data Mining Lab - Team"
 layout: gridlay
-excerpt: "DBLab: Team members"
+excerpt: "Database & Data Mining Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
