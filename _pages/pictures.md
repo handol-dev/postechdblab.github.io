@@ -1,7 +1,7 @@
 ---
-title: "DBLab - Pictures"
+title: "Database & Data Mining Lab - Pictures"
 layout: piclay
-excerpt: "DBLab - Pictures"
+excerpt: "Database & Data Mining Lab - Pictures"
 permalink: /pictures/
 ---
 

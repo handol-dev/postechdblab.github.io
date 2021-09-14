@@ -1,7 +1,7 @@
 ---
-title: "DBLab - Publications"
+title: "Database & Data Mining Lab - Publications"
 layout: gridlay
-excerpt: "DBLab - Publications."
+excerpt: "Database & Data Mining Lab - Publications."
 sitemap: false
 permalink: /publications/
 ---

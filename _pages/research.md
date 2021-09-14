@@ -1,7 +1,7 @@
 ---
-title: "DBLab - Research"
+title: "Database & Data Mining Lab - Research"
 layout: textlay
-excerpt: "DBLab - Research"
+excerpt: "Database & Data Mining Lab - Research"
 sitemap: false
 permalink: /research/
 ---

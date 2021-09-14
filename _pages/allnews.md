@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "DBLab at POSTECH."
+excerpt: "Database & Data Mining Lab at POSTECH."
 sitemap: false
 permalink: /news.html
 ---
