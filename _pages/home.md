@@ -6,8 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-TODO: will be written by wshan
+Welcome to the Database & Data Mining Lab (Big Data Lab) at the POSTECH. We have been focusing on big data, databases, mining, and AI related research for databases (natural language to SQL and self-driving DBMSs).
+Our goal is to build scalable, intelligent Big data systems that effectively and efficiently deal with Big data. Most of Big data is unstructured data, and thus, it is difficult to handle. We are building a system for converting unstructured data into semi-structured data in a graph form so that it can be easily handled in our distributed graph engines such as TurboGraph/TurboGraph++/iTurboGraph. We are also building an intelligent system to interact with humans through a natural language interface to the database
 
+We are proud of strong publication records in top database venues such as SIGMOD/VLDB (16 SIGMOD/VLDB papers by our group for the past 5 years), significantly contributing to make the Korean database community one of the strongest communities worldwide. Many of our alumni work for top notch companies including Facebook, Oracle, SAP, Microsoft, and Amazon. We have been closely collaborating with Oracle Labs and SAP for many years.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
