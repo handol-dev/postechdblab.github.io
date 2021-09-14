@@ -11,7 +11,20 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [research professor](#research-professor), [post doc](#post-doc), [Ph.D and Master students](#phd-and-master-students).
+Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students).
+
+## Professor
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Wook-Shin Han</h4>
+  <i>Professor
+  <ul style="overflow: hidden">
+  <li><a href="{{ site.url }}{{ site.baseurl }}/professor">Detailed Information</a></li>
+  </ul>
+</div>
+</div>
 
 ## Research Professor
 {% assign number_printed = 0 %}
@@ -77,7 +90,7 @@ Jump to [research professor](#research-professor), [post doc](#post-doc), [Ph.D 
 
 
 
-## Post Doc
+## Post Doc.
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
