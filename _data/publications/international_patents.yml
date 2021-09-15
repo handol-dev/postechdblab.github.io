@@ -1,16 +1,4 @@
 - ISSN: null
-  authors: Wook-Shin Han, Hyuk Kyu Kang, Inhyuk Na, and Hyeonji Kim
-  description: null
-  highlight: 0
-  image: null
-  info: PCT, App. No. PCT/KR2019/018491
-  is_co-corresponding_author: false
-  is_corresponding_author: false
-  link: null
-  month: Dec.
-  title: Semantic Linking of Natural Language Words with Columns and Tables in Databases
-  year: 2019
-- ISSN: null
   authors: Wook-Shin Han andSeongyun Ko
   description: null
   highlight: 0
@@ -22,6 +10,18 @@
   month: Dec.
   title: Graph Data Processing Method and Apparatus Thereof
   year: 2020
+- ISSN: null
+  authors: Wook-Shin Han, Hyuk Kyu Kang, Inhyuk Na, and Hyeonji Kim
+  description: null
+  highlight: 0
+  image: null
+  info: PCT, App. No. PCT/KR2019/018491
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Semantic Linking of Natural Language Words with Columns and Tables in Databases
+  year: 2019
 - ISSN: null
   authors: Wook-Shin Han, Wooseong Kwak, Jinsoo Lee, Guy M. Lohman, and Volker Markl
   description: null
