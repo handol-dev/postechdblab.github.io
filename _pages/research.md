@@ -9,8 +9,7 @@ permalink: /research/
 # Research
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbpzMidK9Ms" frameborder="0" allowfullscreen></iframe>
-<video width="320" height="240" controls>
-  <source type="video/mp4" src="https://github.com/postechdblab/postechdblab.github.io/tree/gh-pages/_data/Paper07F_1_1295.mp4">
+<video src="https://github.com/postechdblab/postechdblab.github.io/tree/gh-pages/_data/Paper07F_1_1295.mp4" width="320" height="240" controls="controls">
 </video>
 
 
