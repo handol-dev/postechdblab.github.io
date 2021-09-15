@@ -8,8 +8,9 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
-
+**We are seeking for self-motivated master and Ph.D. students!** <br>
+(Unfortunately, we do not have any opening for foreign students.) <br>
+Please send an email to Prof. Wook-Shin Han at [wshan@dblab.postech.ac.kr](mailto:wshan@dblab.postech.ac.kr) regarding the scholarship.
 
 Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students), [Bachelor Students](#bachelor-students), [Alumni](#alumni).
 
