@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbpzMidK9Ms" frameborder="0" allowfullscreen></iframe>
+
 **Conversational, Self-tuning DBMS** In order for a general user to use a database management system (DBMS), the user needs to be proficient in handling schema, which is the structure of a database, and SQL, which is a query language. However, the general public does not know the SQL language, and it is not easy for even a computer major to write an SQL query that accurately reflects their intentions. In addition, it is difficult for users of existing DBMSs to check whether they have properly written SQL queries. Even if the user writes the SQL query correctly, if there is no result returned by the DBMS, the user may not be sure that he or she wrote the SQL query correctly.
 
 On the other hand, DBMS tuning is an important task that greatly affects query processing performance. Since it requires advanced knowledge of DBMS, expert database administrators (DBAs) are mainly responsible for the task. However, since the DBA's salary is high, it is practically difficult to hire a DBA in a small company, and as the DBMS structure becomes more complex, tuning becomes difficult and tedious even for DBAs.
