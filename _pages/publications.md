@@ -63,7 +63,7 @@ Please add group highlights
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
   {{publi.info}}, {{ publi.month }} {{ publi.year}}
-  {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} <a href="{{ publi.link.url }}">[PDF]</a>
+  {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} {% if publi.link != null %} <a href="{{ publi.link }}">[PDF]</a> {% endif %}
 
 {% endfor %}
 
@@ -77,7 +77,7 @@ Please add group highlights
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
   {{publi.info}}, {{ publi.month }} {{ publi.year }}
-  {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} <a href="{{ publi.link.url }}">[PDF]</a>
+  {% if publi.ISSN != null %} (ISSN: {{publi.ISSN}}){% endif %} {% if publi.is_corresponding_author == true %} (Corresponding Author){% endif %} {% if publi.is_co-corresponding_author == true %} (Co-Corresponding Author){% endif %} {% if publi.link != null %} <a href="{{ publi.link }}">[PDF]</a> {% endif %}
 
 {% endfor %}
 
@@ -90,8 +90,9 @@ Please add group highlights
   {% assign var_year = publi.year %}
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
-  {{publi.info}}, {{ publi.month }} {{ publi.year }}
-  <a href="{{ publi.link.url }}">[PDF]</a>
+  {{publi.info}}, {{ publi.month }} {{ publi.year }} {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
@@ -104,8 +105,9 @@ Please add group highlights
   {% assign var_year = publi.year %}
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
-  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월
-  <a href="{{ publi.link.url }}">[PDF]</a>
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
@@ -119,8 +121,9 @@ Please add group highlights
   {% assign var_year = publi.year %}
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
-  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월
-  <a href="{{ publi.link.url }}">[PDF]</a>
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 
@@ -133,8 +136,9 @@ Please add group highlights
   {% assign var_year = publi.year %}
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
-  {{publi.info}}, {{ publi.month }} {{ publi.year }}
-  <a href="{{ publi.link.url }}">[PDF]</a>
+  {{publi.info}}, {{ publi.month }} {{ publi.year }} {% if publi.link != null %} 
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 ## Domestic Patents
@@ -146,8 +150,9 @@ Please add group highlights
   {% assign var_year = publi.year %}
   **{{ publi.title }}** <br />
   <em>{{ publi.authors }} </em><br />
-  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월
-  <a href="{{ publi.link.url }}">[PDF]</a>
+  {{publi.info}}, {{ publi.year }}년 {{ publi.month }}월 {% if publi.link != null %}
+  <a href="{{ publi.link }}">[PDF]</a>
+  {% endif %}
 
 {% endfor %}
 

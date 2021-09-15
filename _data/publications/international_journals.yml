@@ -7,7 +7,7 @@
     (PVLDB), Vol. 14, No. 11, pp. 1979-1991
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.vldb.org/pvldb/vol14/p1979-bhowmick.pdf
   month: Aug.
   title: 'Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned
     Pattern Selection for Large Networks'
@@ -21,7 +21,7 @@
     (PVLDB), Vol. 14, No. 8, pp.1298-1310
   is_co-corresponding_author: true
   is_corresponding_author: false
-  link: null
+  link: http://www.vldb.org/pvldb/vol14/p1298-han.pdf
   month: Aug.
   title: Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming
   year: 2021
@@ -34,7 +34,7 @@
     (PVLDB), Vol. 13, No. 10, pp. 1737-1750
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: https://dl.acm.org/doi/10.5555/3389133.3416230
   month: Aug.
   title: 'Natural language to SQL: Where are we today?'
   year: 2020
@@ -47,7 +47,7 @@
     (PVLDB), Vol. 13, No. 12, pp. 3019-3031
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: https://dl.acm.org/doi/10.14778/3415478.3415531
   month: Aug.
   title: Towards Multi-way Join Aware Optimizer in SAP HANA
   year: 2020
@@ -60,7 +60,7 @@
     (PVLDB), Vol. 13, No. 12, pp. 3112-3124
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: https://dl.acm.org/doi/10.14778/3415478.3415538
   month: Aug.
   title: Asymmetric-Partition Replication for Highly Scalable Distributed Transaction
     Processing in Practice
@@ -74,7 +74,7 @@
     (PVLDB), Vol. 13, No. 9, pp. 1456-1468
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://www.vldb.org/pvldb/vol13/p1456-kim.pdf
   month: Aug.
   title: 'IDAR: Fast Supergraph Search Using DAG Integration'
   year: 2020
@@ -87,7 +87,7 @@
     (PVLDB), Vol. 12, No. 11, pp. 1344-1356
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: https://dl.acm.org/doi/10.14778/3342263.3342272
   month: Aug.
   title: Fast and Robust Distributed Subgraph Enumeration
   year: 2019
@@ -100,7 +100,7 @@
     (PVLDB), Vol. 11, No. 12, Rio De Janeiro, Brazil
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: https://drive.google.com/open?id=1PY3uTHwNYLnpRmuVNBR6O0Y4iur3oJvP
   month: Aug.
   title: 'PANDA: A System for Partial Topology-based Search on Large Networks'
   year: 2018
@@ -113,7 +113,7 @@
   info: The VLDB Journal, pp. 1-24
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: https://dl.acm.org/doi/10.1007/s00778-018-0503-z
   month: Apr.
   title: Parallel Replication across Formats for Scaling Out Mixed OLTP/OLAP Workloads
     in Main-Memory Databases
@@ -126,7 +126,7 @@
   info: Information Sciences, Vol. 415-416, pp. 171-189
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: https://www.sciencedirect.com/science/article/pii/S002002551730796X
   month: Nov.
   title: Scalable and Parallelizable Influence Maximization with Random Walk Ranking
     and Rank Merge Pruning
@@ -141,7 +141,7 @@
     (PVLDB), Vol. 10, No. 12, pp. 1598-1609
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: https://dl.acm.org/doi/10.14778/3137765.3137767
   month: Aug.
   title: Parallel Replication across Formats in SAP HANA for Scaling Out Mixed OLTP/OLAP
     Workloads
@@ -154,7 +154,7 @@
   info: Information Sciences, Vol. 394, pp. 217-231
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.sciencedirect.com/science/article/pii/S0020025517305121
   month: Jul.
   title: Influence Maximization Based on Reachability Sketches in Dynamic Graphs
   year: 2017
@@ -167,7 +167,7 @@
   info: Distributed and Parallel Databases, Vol. 33, Issue 4, pp. 479-514
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://link.springer.com/article/10.1007/s10619-014-7140-3
   month: Dec.
   title: 'The G* Graph Database: Efficiently Managing Large Distributed Dynamic Graphs'
   year: 2015
@@ -180,7 +180,7 @@
     (PVLDB), Vol. 8, No. 11, pp. 1238-1249
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=2809985
   month: Jul.
   title: Taming Subgraph Isomorphism for RDF Query Processing
   year: 2015
@@ -193,7 +193,7 @@
     2658-2671
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7079453
   month: Apr.
   title: 'DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale
     Networks'
@@ -206,7 +206,7 @@
   info: Int'l Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp. 205-222
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijdmb
   month: null
   title: An Efficient Algorithm for Updating Regular Expression Indexes in RDF Databases
   year: 2015
@@ -218,7 +218,7 @@
   info: BMC Medical Informatics and Decision Making, 15(Suppl 1):S9
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://www.biomedcentral.com/1472-6947/15/S1/S9
   month: May.
   title: Developing a Hybrid Dictionary-based Bio-entity Recognition Technique
   year: 2015
@@ -230,7 +230,7 @@
   info: Multimedia Tools and Applications, Vol. 74, Issue 10, pp. 3599-3615
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://link.springer.com/article/10.1007%2Fs11042-013-1672-9#page-1
   month: May.
   title: Towards intelligent in-vehicle sensor database management systems
   year: 2015
@@ -242,7 +242,7 @@
   info: World Wide Web Journal, Vol. 18, Issue 3, pp. 491-520
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://link.springer.com/article/10.1007%2Fs11280-013-0264-y#
   month: May.
   title: DB-IR integration using tight-coupling in the Odysseus DBMS
   year: 2015
@@ -254,7 +254,7 @@
   info: Information Sciences, Vol. 261, pp. 132-148
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513006695
   month: Mar.
   title: Leveraging spatial join for robust tuple extraction from web pages
   year: 2014
@@ -266,7 +266,7 @@
   info: Information Sciences, Vol. 257, pp. 32-53
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513006592
   month: Feb.
   title: 'iKernel: Exact indexing for support vector machines'
   year: 2014
@@ -278,7 +278,7 @@
   info: Information Sciences, Vol. 255, pp. 135-154
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513005203
   month: Jan.
   title: Processing time-dependent shortest path queries without pre-computed speed
     information on road networks
@@ -292,7 +292,7 @@
     (PVLDB), Vol. 6, No. 2, pp. 133-144
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=2448946
   month: Dec.
   title: An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases
   year: 2012
@@ -304,7 +304,7 @@
   info: BMC Bioinformatics
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://link.springer.com/article/10.1186%2F1471-2105-12-S12-S4#
   month: null
   title: Combining Active Learning and Semi-supervised Learning Techniques to Extract
     Protein Interaction Sentences
@@ -317,7 +317,7 @@
   info: BMC Bioinformatics
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://www.biomedcentral.com/1471-2105/12/S2/S6
   month: null
   title: Processing SPARQL Queries with Regular Expressions in RDF Databases
   year: 2011
@@ -329,7 +329,7 @@
   info: Information Sciences, Vol. 180, No. 21, pp. 4118-4135
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ac.els-cdn.com/S0020025510003245/1-s2.0-S0020025510003245-main.pdf?_tid=f91c26bcff89259d7558d819e6ea7cf9&acdnat=1336010269_78c860a3fd765e4173cd8ca57c121836
   month: Nov.
   title: 'Type-Level Access Pattern View: Enhancing Prefetching Performance Using
     the Iterative and Recursive Patterns'
@@ -342,7 +342,7 @@
   info: GeoInformatica, Vol. 14, No. 4, pp. 425-446
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.springerlink.com/content/m6851246706v6n65/fulltext.pdf
   month: Oct.
   title: Tightly-Coupled Spatial Database Features in the Odysseus/OpenGIS DBMS for
     High-Performance
@@ -355,7 +355,7 @@
   info: World Wide Web Journal, Vol. 13, No. 3, pp. 343-371, Sept.
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.springerlink.com/content/404448t43m80xr45/fulltext.pdf
   month: null
   title: 'XMin: Minimizing Tree Pattern Queries with Minimality Guarantee'
   year: 2010
@@ -369,7 +369,7 @@
     of VLDB
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1920901
   month: null
   title: 'iGraph: A Framework for Comparisons of Disk-based Graph Indexing Techniques'
   year: 2010
@@ -381,7 +381,7 @@
   info: BMC Bioinformatics
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1651328
   month: null
   title: Enabling multi-level relevance feedback on PubMed by integrating rank learning
     into DBMS
@@ -394,7 +394,7 @@
   info: The VLDB Journal, Vol. 19, No. 4, pp. 503-529
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.springerlink.com/content/83338762l176955t/
   month: Aug.
   title: 'Structural Consistency: Enabling XML Keyword Search to Eliminate Spurious
     Results Consistently'
@@ -407,7 +407,7 @@
   info: IEEE Transactions on Knowledge and Data Engineering, Vol. 21, No. 2, pp. 220-233
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.260
   month: Feb.
   title: Cost-Based Predictive Spatio-Temporal Join
   year: 2009
@@ -420,7 +420,7 @@
     (PVLDB), Vol. 1, No. 1
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1453882
   month: Aug.
   title: Parallelizing Query Optimization
   year: 2008
@@ -433,7 +433,7 @@
     (PVLDB), Vol. 1, No. 1
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1453891
   month: Aug.
   title: 'StreamTX: Extracting Tuples from Streaming XML Data'
   year: 2008
@@ -445,7 +445,7 @@
   info: The VLDB Journal , Vol. 16, No. 3, pp. 371-387
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1265299
   month: Jul.
   title: 'The Dynamic Predicate: Integrating Access Control with Query Processing
     in XML Databases'
@@ -459,7 +459,7 @@
     395-404
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://astp.jst.go.jp/modules/search/DocumentDetail/1226-2285%2B%2540%2B1229-7739%2B%2540%2B_31_6_Hippocratic%2BXML%2BDatabases%253A%2BA%2BModel%2Band%2BAccess%2BControl%2BMechanism_%25ED%259E%2588%25ED%258F%25AC%25ED%2581%25AC%25EB%259D%25BC%25ED%2585%258C%25EC%258A%25A4%2BXML%2B%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25EB%25B2%25A0%25EC%259D%25B4%25EC%258A%25A4%253A%2B%25EB%25AA%25A8%25EB%258D%25B8%2B%25EB%25B0%258F%2B%25EC%2595%25A1%25EC%2584%25B8%25EC%258A%25A4%2B%25ED%2586%25B5%25EC%25A0%259C%2B%25EB%25B0%25A9%25EB%25B2%2595
   month: Nov.
   title: 'Hippocratic XML Databases: A Model and an Access Control Mechanism'
   year: 2006
@@ -471,7 +471,7 @@
   info: Journal of Systems and Software, Vol. 79, No. 2, pp. 180-190
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ac.els-cdn.com/S0164121205001007/1-s2.0-S0164121205001007-main.pdf?_tid=2e31315f757b8bab6f303e8c292c700e&acdnat=1336010610_463306b1672d900794c401a2075cb327
   month: Feb.
   title: Efficient Evaluation of Linear Path Expressions on Large-Scale Heterogeneous
     XML Documents Using Information Retrieval Techniques
@@ -484,7 +484,7 @@
   info: IEEE Transactions on Knowledge and Data Engineering, Vol. 18, No. 2, pp. 245-260
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1107342
   month: Feb.
   title: 'Transform-Space View: Performing Spatial Join in the Transform Space Using
     Original-Space Indexes'
@@ -497,7 +497,7 @@
   info: Journal of Systems and Software, Vol. 78, No. 3, pp. 257-269
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ac.els-cdn.com/S016412120400202X/1-s2.0-S016412120400202X-main.pdf?_tid=20e536a58b8c28ced451781e5f3180a7&acdnat=1336010761_4987ede379315ea3e7aac447f6470e02
   month: Dec.
   title: 'Adaptive Row Major Order: a New Space Filling Curve for Efficient Spatial
     Join Processing in the Transform Space'
@@ -511,7 +511,7 @@
     1436-1488
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://dl.acm.org/citation.cfm?id=1083969
   month: Oct.
   title: A Formal Framework for Prefetching Based on the Type-Level Access Pattern
     in Object-Relational DBMSs
@@ -525,7 +525,7 @@
     pp. 355-362
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: https://www.researchgate.net/publication/220403985_Transformation-Based_Spatial_Partition_Join
   month: Nov.
   title: Transformation-Based Spatial Partition Join
   year: 2004
@@ -537,7 +537,7 @@
   info: IEEE Transactions on Knowledge and Data Engineering, Vol. 15, No. 6, pp. 1535-1551
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1245291
   month: Nov.
   title: Dynamic Buffer Allocation in Video-on-Demand Systems
   year: 2003
@@ -549,7 +549,7 @@
   info: Information Sciences, Vol. 152, No. 1, pp. 47-61
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ac.els-cdn.com/S0020025502004127/1-s2.0-S0020025502004127-main.pdf?_tid=dcc12bed22dbe85c67661364703d176e&acdnat=1336011561_98471675a222523f7c687a795992aabe
   month: Jun.
   title: 'PrefetchGuide: Capturing Navigational Access Patterns for Prefetching in
     Client/Server Object-Oriented/Object-Relational DBMSs'
@@ -562,7 +562,7 @@
   info: Journal of Object Technology, Vol. 2, No. 1, pp. 113-126
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://www.jot.fm/contents/issue_2003_05/article2.html
   month: May.
   title: An XML Storage System for Object-Oriented/Object-Relational DBMSs
   year: 2003
@@ -574,7 +574,7 @@
   info: Information and Software Technology, Vol. 44, No. 7, pp. 419-429
   is_co-corresponding_author: false
   is_corresponding_author: false
-  link: null
+  link: http://ac.els-cdn.com/S0950584902000265/1-s2.0-S0950584902000265-main.pdf?_tid=9c81030dbe2aa4cf395fffa4a327bf09&acdnat=1336011887_4d08709e74f39a4a942dad674c6791cf
   month: May.
   title: The Clustering Property of Corner Transformation for Spatial Database Applications
   year: 2002
@@ -586,7 +586,7 @@
   info: Information & Software Technology, Vol. 43, No. 5, pp. 309-323
   is_co-corresponding_author: false
   is_corresponding_author: true
-  link: null
+  link: http://ac.els-cdn.com/S0950584900001683/1-s2.0-S0950584900001683-main.pdf?_tid=2242b27a7aa5e87064460034a68320e0&acdnat=1336012139_97b577738065b67a93d7865094b59b37
   month: Nov.
   title: A Tunable Class Hierarchy Index for Object-Oriented Databases Using a Multi-dimensional
     Index Structure
