@@ -8,9 +8,8 @@ permalink: /research/
 
 # Research
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbpzMidK9Ms" frameborder="0" allowfullscreen></iframe>
-<video src="https://github.com/postechdblab/postechdblab.github.io/tree/gh-pages/_data/Paper07F_1_1295.mp4" width="320" height="240" controls="controls">
-</video>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/CbpzMidK9Ms" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://drive.google.com/file/d/1qR64-Nhyth0GSFwbTFtHS9ChV89Rd_wS/preview" frameborder="0" allowfullscreen></iframe>
 
 
 **Conversational, Self-tuning DBMS** In order for a general user to use a database management system (DBMS), the user needs to be proficient in handling schema, which is the structure of a database, and SQL, which is a query language. However, the general public does not know the SQL language, and it is not easy for even a computer major to write an SQL query that accurately reflects their intentions. In addition, it is difficult for users of existing DBMSs to check whether they have properly written SQL queries. Even if the user writes the SQL query correctly, if there is no result returned by the DBMS, the user may not be sure that he or she wrote the SQL query correctly.
@@ -19,11 +18,11 @@ On the other hand, DBMS tuning is an important task that greatly affects query p
 
 The intelligent DBMS to be developed in this project effectively solves the two problems mentioned above. The intelligent DBMS provides a natural language interface that can be easily accessed by users who do not have deep knowledge of DBMS and do not know SQL. In addition, non-experts can easily tune the DBMS, so individuals or small and medium-sized enterprises (SMEs) who are burdened with DBA employment can use it at a lower cost.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OHOFLjmuinw" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/OHOFLjmuinw" frameborder="0" allowfullscreen></iframe>
 
 **Ultrafast Graph DBMS enhanced by Deep Learning** This study aims to develop an in-memory graph DBMS with major system components optimized by deep learning. Unlike the heuristic-based existing works, we use deep learning techniques for engine components. First, by synthesizing various intermediate result prediction models, it supports queries with a large number of joins and query plan optimizations including multi-graph query optimization. Second, it provides graph partitioning that minimizes workload processing cost based on deep learning modeling of query processing cost for the partitioned graph. Third, it optimizes graph transaction processing in real-time using lightweight deep learning techniques.  Lastly, for the system usability, it provides a query interface that automatically generates a regular path query by receiving examples of the result for a regular path query from a user. In other words, this system uses deep learning techniques to simultaneously improve both usability and performance optimization.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dIZshMyq7TE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/dIZshMyq7TE" frameborder="0" allowfullscreen></iframe>
 
 **Next-generation Distributed Graph DBMS** A distributed graph DBMS for intelligent processing of big graphs is a system that can raise the competitiveness of big data and artificial intelligence-based business. The system can process important graph applications by supporting efficient storage, analysis, and machine learning of large graphs on cloud-based distributed machines. 
 
