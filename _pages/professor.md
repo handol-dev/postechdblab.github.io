@@ -19,8 +19,8 @@ permalink: /professor/
   <h5>Dept. of Computer Science and Engineering, Graduate School of AI, Dept. of Creative IT Engineering</h5>
   <h5>POSTECH</h5>
 
-  <h5>Email: wshan@dblab.postech.ac.kr</h5>
-  <h5>Calendar: <a href="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr"><img alt="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr" src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" style="background-color:transparent;text-align:left;line-height:1.5;font-size:10pt"></a></h5>
+  <h5>Email: [wshan@dblab.postech.ac.kr](mailto:wshan@dblab.postech.ac.kr)</h5>
+  <h5>Calendar: <a href="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr"><img alt="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr" src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" style="background-color:transparent;text-align:left;line-height:1.5;font-size:10pt;margin:0px"></a></h5>
 
 
 </div>
