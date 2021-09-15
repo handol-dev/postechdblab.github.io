@@ -12,130 +12,224 @@ permalink: /professor/
 </div>
 
 <div class="col-sm-9 clearfix">
-<div class="row">
+
   <h2>Wook-Shin Han</h2>
-</div>
-<div class="row">
+  <br>
   <h5>Full Professor</h5>
   <h5>Dept. of Computer Science and Engineering, Graduate School of AI, Dept. of Creative IT Engineering</h5>
   <h5>POSTECH</h5>
   <h5>Email: wshan.postechATgmail.com</h5>
   <h5>Calendar: <img alt="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr" src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" style="background-color:transparent;text-align:left;line-height:1.5;font-size:10pt"></h5>
-</div>
+
 </div>
 </div>
 
 
 <div class="row">
+<div class="col-sm-12 clearfix">
 I am a full professor (jointly appointed (JA)) in [Department of Computer Science and Engineering](http://cse.postech.ac.kr/), [Graduate School of AI](http://ai.postech.ac.kr/), & [Department of Creative IT Engineering](http://cite.postech.ac.kr/) at [POSTECH](http://www.postech.ac.kr/). I am a head of the BK21 center for AI at POSTECH.
+</div>
 </div>
 
 ### Professional Experience
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
 <ul style="overflow: hidden">
 <li>
-<div class="col-sm-2 clearfix">
 2013.7-present 
-</div>
-<div class="col-sm-10 clearfix">
-Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2003.3- 2013.7
-</div>
-<div class="col-sm-10 clearfix">
-Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2008.1- 2012.8
-</div>
-<div class="col-sm-10 clearfix">
-Director, Institute of IT-Gifted Youth, Kyungpook National University.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2005.8- 2006.8
-</div>
-<div class="col-sm-10 clearfix">
-Post-Doctoral Fellow, IBM Almaden Research Center
-</div>
-<div class="col-sm-2 clearfix">
-</div>
-<div class="col-sm-10 clearfix">
-(worked on progressive optimization in the parallel DB2 DBMS).
-</div>
 </li>
-
 </ul>
-<ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
 <li>
-<div class="col-sm-2 clearfix">
+Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
+</li>
+</ul>
+</div>
+</div>
+
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2003.3- 2013.7
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2008.1- 2012.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Director, Institute of IT-Gifted Youth, Kyungpook National University.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2005.8- 2006.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Post-Doctoral Fellow, IBM Almaden Research Center<br>
+(worked on progressive optimization in the parallel DB2 DBMS).
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
 2002.9- 2003.2
-</div>
-<div class="col-sm-10 clearfix">
-Research Professor, Advanced Information Technology Research Center, KAIST.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2002.7
-</div>
-<div class="col-sm-10 clearfix">
-Visiting Scholar, Software Technology Lab, HP Labs.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2001.9 - 2002.8
-</div>
-<div class="col-sm-10 clearfix">
-Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2001.7 - 2001.8
-</div>
-<div class="col-sm-10 clearfix">
-Visiting Student, Software Technology Lab, HP Labs.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-2000.7 - 2000.8
-</div>
-<div class="col-sm-10 clearfix">
-Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-1999.7 - 1999.8 
-</div>
-<div class="col-sm-10 clearfix">
-Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
-</div></li>
-
-<li>
-<div class="col-sm-2 clearfix">
-1997.7 - 1997.8
-</div>
-<div class="col-sm-10 clearfix">
-Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
-</div></li>
+</li>
 </ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Research Professor, Advanced Information Technology Research Center, KAIST.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2002.7
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Visiting Scholar, Software Technology Lab, HP Labs.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2001.9 - 2002.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2001.7 - 2001.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Visiting Student, Software Technology Lab, HP Labs.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+2000.7 - 2000.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+1999.7 - 1999.8 
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+</li>
+</ul>
+</div>
+</div>
+
+<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-2 clearfix" style="padding:0px">
+<ul style="overflow: hidden">
+<li>
+1997.7 - 1997.8
+</li>
+</ul>
+</div>
+<div class="col-sm-10 clearfix" style="padding:0px">
+<ul style="overflow: hidden;list-style-type:none">
+<li>
+Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
+</li>
+</ul>
+</div>
+</div>
+
 </div>
 
 ### Professional Activities
 #### Journal Editors
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>Associate Editor, SIGMOD RECORD, 2021.7 - Present  </li>
 <li>Associate Editor, PVLDB 2022, 2021.4 - 2022.3 </li>
@@ -150,10 +244,12 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <li>Editorial Board Member, KIISE Computing Practices and Letters, 2011 - Present </li>
 </ul>
 </div>
+</div>
 
 #### Organizers
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021 </li>
 <li>Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019 </li>
@@ -178,6 +274,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <li>Workshop Co-chair, ACM 18th Conference on Information and Knowledge Management (ACM CIKM), Hong Kong, October 2009 </li>
 </ul>
 </div>
+</div>
  
 #### Selected PC Memberships
 
@@ -200,14 +297,17 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 #### Reviewer
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering, VLDB Journal </li>
 <li>External Reviewer: APWEB 2004, DASFAA 2004, VLDB 2003, VLDB 2002, ACM CIKM 2002, COOPIS 2002, IDEAS 2002 </li>
 </ul>
 </div>
+</div>
 
 ### Research Interests
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ol>
 <li>Big (Graph) Data Management and Analytics </li>
 <li>Data Mining </li>
@@ -220,9 +320,11 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <li>Text Databases </li>
 </ol>
 </div>
+</div>
 
 ### Honors
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>Sigmod 2021 Distinguished PC member, 2021 </li>
 <li>VLDB Distinguished Associate Editor Award, 2018 </li>
@@ -246,6 +348,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <li>The Marquis' Who's Who in the World </li>
 </ul>
 </div>
+</div>
 
 ### Selected Publications
 <div class="row">
@@ -259,6 +362,7 @@ NOTE: I sometimes place my name in the last of author lists if my name is specif
 #### 2016 - (to appear)
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 Kim, H., Lee, J., Bhowmick, S., <u>Han, W.</u>, Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco, USA, June 2016. (to appear) (Corresponding author)
@@ -271,9 +375,11 @@ Kim, M., Lee, S., <u>Han, W.</u>, Park, H., and Lee, J., "DSP-CC: I/O Efficient 
 </li>
 </ul>
 </div>
+</div>
 
 #### 2015
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 Kim, J., Shin, H., <u>Han, W.</u>, Hong, S., and Chafi, H., "Taming Subgraph Isomorphism for RDF Query Processing," In 41st Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 8,  No. 11, pp. 1238-1249, July 2015. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2809985">PDF</a>] (corresponding author)
@@ -283,18 +389,22 @@ Oh, J., <u>Han, W.</u>, Yu, H., and Jiang, X., "Fast and Robust Parallel SGD Mat
 </li>
 </ul>
 </div>
+</div>
 
 #### 2014
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework for Overlapped and Parallel Triangulation in Large-scale Graphs," In Proc. 40th Int'l conf. on Management of Data, ACM SIGMOD, Snowbird, Utah, June 2014. [<a href="http://dl.acm.org/citation.cfm?id=2588563">PDF</a>] (corresponding author)
 </li>
 </ul>
 </div>
+</div>
 
 #### 2013
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., and Lee, J., "TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases," In Proc. 39th Int'l conf. on Management of Data, ACM SIGMOD, New York, USA, June 2013. [<a href="http://dl.acm.org/citation.cfm?id=2465300">PDF</a>]
@@ -304,18 +414,22 @@ Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework fo
 </li>
 </ul>
 </div>
+</div>
 
 #### 2012
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 Lee, J., <u>Han, W.</u>, Kasperovics, R., and Lee, J., "An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases," In 39th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 6,  No. 2, pp. 133-144, Dec. 2012. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2448946">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph2">SOFTWARE</a>] (corresponding author)
 </li>
 </ul>
 </div>
+</div>
 
 #### 2011
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Moon, Y., Hwang, S., and Yu, H., "A New Approach for Processing Ranked Subsequence Matching Based on Ranked Union," In Proc.  37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece, June 2011. [<a href="http://dl.acm.org/citation.cfm?id=1989371">PDF</a>]
@@ -328,9 +442,11 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 </li>
 </ul>
 </div>
+</div>
 
 #### 2010
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Duc, P., and Yu, J., "iGraph: A Framework for Comparisons of Disk-based Graph Indexing Techniques," In 36th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 3, No.1, pp.449-459, Sept. 2010. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1920901">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph">SOFTWARE</a>] (invited to VLDB Journal as best of VLDB 2010 papers ) 
@@ -340,18 +456,22 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 </li>
 </ul>
 </div>
+</div>
 
 #### 2009
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u> and Lee, J., "Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs," In Proc. 35th Int'l Conf. on Management of Data, ACM SIGMOD, Providence, Rhode Island, June 2009. [<a href="http://dl.acm.org/citation.cfm?id=1559853">PDF</a>] 
 </li>
 </ul>
 </div>  
+</div>
 
 #### 2008
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Kwak, W., Lee, J., Lohman, G., and Markl, V., "Parallelizing Query Optimization," In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1453882">PDF</a>](extended version)   
@@ -361,9 +481,11 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 </li>
 </ul>
 </div>
+</div>
 
 #### 2007
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Moon, Y., and Jiang, H., "Ranked Subsequence Matching in Time-series Databases," In Proc. 33rd Int'l Conf. on Very Large Data Bases (VLDB), Vienna, Austria, Sept. 2007.  [<a href="http://dl.acm.org/citation.cfm?id=1325902">PDF</a>]
@@ -373,9 +495,11 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 </li>
 </ul>
 </div>
+</div>
 
 #### 2006 and before
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>
 Kache, H., <u>Han, W.</u>, Markl, V.,Raman, V., and Ewens, S., "POP/FED: Progressive Query Optimization for Federated Queries in DB2," In Proc. 32nd Int'l Conf. on Very large data bases (VLDB), Seoul, Korea, pp. 1175-1178, Sept. 2006. [<a href="http://dl.acm.org/citation.cfm?id=1164237">PDF</a>]
@@ -391,19 +515,23 @@ Moon, Y., Whang, K., and <u>Han, W.</u>, "General Match: A Subsequence Matching 
 </li>
 </ul>
 </div>
+</div>
 
 ### Keynote
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data (ACM SIGMOD 2021), Shannxi, China, June 24, 2021 (mini keynote)</li>
 <li>Big Graph Data Processing, the 19th International Conference on Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, April 21, 2014</li>
 </ul>
 </div>
+</div>
 
 ### Invited Talks
 
 <div class="row">
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Korea University, Korea, June 30 - July 1, 2017</li>
 <li>DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Kyung Hee University, Korea, March 3, 2017</li>
@@ -467,6 +595,7 @@ Moon, Y., Whang, K., and <u>Han, W.</u>, "General Match: A Subsequence Matching 
 </li>
 <li>IBM Almaden Research Lab., USA, July 2001</li>
 </ul>
+</div>
 </div>
 
 
