@@ -42,7 +42,7 @@ I am a full professor (jointly appointed (JA)) in [Department of Computer Scienc
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT Engineering, POSTECH
@@ -60,7 +60,7 @@ Full Professor, Dept. of Computer Science and Engineering/Dept. of Creative IT E
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Associate Professor (Tenured), Computer Engineering Department, Kyungpook National University.
@@ -77,7 +77,7 @@ Associate Professor (Tenured), Computer Engineering Department, Kyungpook Nation
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Director, Institute of IT-Gifted Youth, Kyungpook National University.
@@ -94,7 +94,7 @@ Director, Institute of IT-Gifted Youth, Kyungpook National University.
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Post-Doctoral Fellow, IBM Almaden Research Center<br>
@@ -112,7 +112,7 @@ Post-Doctoral Fellow, IBM Almaden Research Center<br>
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Research Professor, Advanced Information Technology Research Center, KAIST.
@@ -129,7 +129,7 @@ Research Professor, Advanced Information Technology Research Center, KAIST.
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Visiting Scholar, Software Technology Lab, HP Labs.
@@ -146,7 +146,7 @@ Visiting Scholar, Software Technology Lab, HP Labs.
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
@@ -163,7 +163,7 @@ Post-Doctoral Fellow, Advanced Information Technology Research Center, KAIST.
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Visiting Student, Software Technology Lab, HP Labs.
@@ -180,7 +180,7 @@ Visiting Student, Software Technology Lab, HP Labs.
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
@@ -197,7 +197,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
@@ -214,7 +214,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 </li>
 </ul>
 </div>
-<div class="col-sm-10 clearfix" style="padding:0px">
+<div class="col-sm-10 clearfix" style="padding-left:0px">
 <ul style="overflow: hidden;list-style-type:none">
 <li>
 Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A.
@@ -229,7 +229,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 #### Journal Editors
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>Associate Editor, SIGMOD RECORD, 2021.7 - Present  </li>
 <li>Associate Editor, PVLDB 2022, 2021.4 - 2022.3 </li>
@@ -249,7 +249,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 #### Organizers
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>Demo Co-Chair, the 26th International Conference on Database Systems for Advanced Applications (DASFAA), Taiwan, April 2021 </li>
 <li>Senior Program Committee Member, the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 2019 </li>
@@ -282,7 +282,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <div class="col-sm-12 clearfix">
 [Full List]({{ site.url }}{{ site.baseurl }}/professor/full_pc_membership)
 </div>
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>SIGMOD:  2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo) </li>
 <li>VLDB: 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009 </li>
@@ -298,7 +298,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 #### Reviewer
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>Journal Reviewer: IEEE Transactions on Knowledge and Data Engineering, VLDB Journal </li>
 <li>External Reviewer: APWEB 2004, DASFAA 2004, VLDB 2003, VLDB 2002, ACM CIKM 2002, COOPIS 2002, IDEAS 2002 </li>
@@ -308,7 +308,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 
 ### Research Interests
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ol>
 <li>Big (Graph) Data Management and Analytics </li>
 <li>Data Mining </li>
@@ -325,7 +325,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 
 ### Honors
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>Sigmod 2021 Distinguished PC member, 2021 </li>
 <li>VLDB Distinguished Associate Editor Award, 2018 </li>
@@ -363,7 +363,7 @@ NOTE: I sometimes place my name in the last of author lists if my name is specif
 #### 2016 - (to appear)
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 Kim, H., Lee, J., Bhowmick, S., <u>Han, W.</u>, Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco, USA, June 2016. (to appear) (Corresponding author)
@@ -380,7 +380,7 @@ Kim, M., Lee, S., <u>Han, W.</u>, Park, H., and Lee, J., "DSP-CC: I/O Efficient 
 
 #### 2015
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 Kim, J., Shin, H., <u>Han, W.</u>, Hong, S., and Chafi, H., "Taming Subgraph Isomorphism for RDF Query Processing," In 41st Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 8,  No. 11, pp. 1238-1249, July 2015. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2809985">PDF</a>] (corresponding author)
@@ -394,7 +394,7 @@ Oh, J., <u>Han, W.</u>, Yu, H., and Jiang, X., "Fast and Robust Parallel SGD Mat
 
 #### 2014
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework for Overlapped and Parallel Triangulation in Large-scale Graphs," In Proc. 40th Int'l conf. on Management of Data, ACM SIGMOD, Snowbird, Utah, June 2014. [<a href="http://dl.acm.org/citation.cfm?id=2588563">PDF</a>] (corresponding author)
@@ -405,7 +405,7 @@ Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework fo
 
 #### 2013
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., and Lee, J., "TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases," In Proc. 39th Int'l conf. on Management of Data, ACM SIGMOD, New York, USA, June 2013. [<a href="http://dl.acm.org/citation.cfm?id=2465300">PDF</a>]
@@ -419,7 +419,7 @@ Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework fo
 
 #### 2012
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 Lee, J., <u>Han, W.</u>, Kasperovics, R., and Lee, J., "An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases," In 39th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 6,  No. 2, pp. 133-144, Dec. 2012. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2448946">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph2">SOFTWARE</a>] (corresponding author)
@@ -430,7 +430,7 @@ Lee, J., <u>Han, W.</u>, Kasperovics, R., and Lee, J., "An In-depth Comparison o
 
 #### 2011
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Moon, Y., Hwang, S., and Yu, H., "A New Approach for Processing Ranked Subsequence Matching Based on Ranked Union," In Proc.  37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece, June 2011. [<a href="http://dl.acm.org/citation.cfm?id=1989371">PDF</a>]
@@ -447,7 +447,7 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 
 #### 2010
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Duc, P., and Yu, J., "iGraph: A Framework for Comparisons of Disk-based Graph Indexing Techniques," In 36th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 3, No.1, pp.449-459, Sept. 2010. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1920901">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph">SOFTWARE</a>] (invited to VLDB Journal as best of VLDB 2010 papers ) 
@@ -461,7 +461,7 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 
 #### 2009
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u> and Lee, J., "Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs," In Proc. 35th Int'l Conf. on Management of Data, ACM SIGMOD, Providence, Rhode Island, June 2009. [<a href="http://dl.acm.org/citation.cfm?id=1559853">PDF</a>] 
@@ -472,7 +472,7 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 
 #### 2008
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Kwak, W., Lee, J., Lohman, G., and Markl, V., "Parallelizing Query Optimization," In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1453882">PDF</a>](extended version)   
@@ -486,7 +486,7 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 
 #### 2007
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 <u>Han, W.</u>, Lee, J., Moon, Y., and Jiang, H., "Ranked Subsequence Matching in Time-series Databases," In Proc. 33rd Int'l Conf. on Very Large Data Bases (VLDB), Vienna, Austria, Sept. 2007.  [<a href="http://dl.acm.org/citation.cfm?id=1325902">PDF</a>]
@@ -500,7 +500,7 @@ Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Supp
 
 #### 2006 and before
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>
 Kache, H., <u>Han, W.</u>, Markl, V.,Raman, V., and Ewens, S., "POP/FED: Progressive Query Optimization for Federated Queries in DB2," In Proc. 32nd Int'l Conf. on Very large data bases (VLDB), Seoul, Korea, pp. 1175-1178, Sept. 2006. [<a href="http://dl.acm.org/citation.cfm?id=1164237">PDF</a>]
@@ -521,7 +521,7 @@ Moon, Y., Whang, K., and <u>Han, W.</u>, "General Match: A Subsequence Matching 
 ### Keynote
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>Natural Language Exploration with Relational Databases in Chatbot, the 47th ACM International Conference on Management of Data (ACM SIGMOD 2021), Shannxi, China, June 24, 2021 (mini keynote)</li>
 <li>Big Graph Data Processing, the 19th International Conference on Database Systems for Advanced Applications (DASFAA), Bali, Indonesia, April 21, 2014</li>
@@ -532,7 +532,7 @@ Moon, Y., Whang, K., and <u>Han, W.</u>, "General Match: A Subsequence Matching 
 ### Invited Talks
 
 <div class="row">
-<div class="col-sm-12 clearfix" style="padding:0px">
+<div class="col-sm-12 clearfix" style="padding-left:0px">
 <ul>
 <li>DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Korea University, Korea, June 30 - July 1, 2017</li>
 <li>DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine, Kyung Hee University, Korea, March 3, 2017</li>
