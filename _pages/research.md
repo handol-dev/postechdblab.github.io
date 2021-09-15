@@ -9,6 +9,10 @@ permalink: /research/
 # Research
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbpzMidK9Ms" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/postechdblab/postechdblab.github.io/tree/gh-pages/_data/Paper07F_1_1295.mp4">
+</video>
+
 
 **Conversational, Self-tuning DBMS** In order for a general user to use a database management system (DBMS), the user needs to be proficient in handling schema, which is the structure of a database, and SQL, which is a query language. However, the general public does not know the SQL language, and it is not easy for even a computer major to write an SQL query that accurately reflects their intentions. In addition, it is difficult for users of existing DBMSs to check whether they have properly written SQL queries. Even if the user writes the SQL query correctly, if there is no result returned by the DBMS, the user may not be sure that he or she wrote the SQL query correctly.
 
