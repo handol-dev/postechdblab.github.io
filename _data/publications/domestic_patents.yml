@@ -1,110 +1,264 @@
-- authors: 한 욱신, 소 병훈, 박 용희. 김 현지, 김 경민
-  description: ''
+- ISSN: null
+  authors: 한 욱신, 고 성윤, 이 태성
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 출원번호 10-2017-0182561, 출원일 2017년 12월 28일. [명품IT(IITP-2017-R0346-16-1007)]'
-    url: ''
+  image: null
+  info: 특허청, 출원번호 10-2021-0081010, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 6
+  title: 그래프 데이터 처리 방법 및 그래프 데이터 처리 장치
+  year: 2021
+- ISSN: null
+  authors: 한 욱신, 나 인혁, 강 혁규
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2021-0013642, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 1
+  title: 자연어를 SQL로 변환하는 시스템을 위한 훈련 세트 수집 장치 및 그 방법
+  year: 2021
+- ISSN: null
+  authors: 한 욱신, 나 인혁, 강 혁규
+  description: null
+  highlight: 0
+  image: null
+  info: 출원번호 10-2021-0013643, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 1
+  title: 자연어 질의를 QGM 질의로 변환하는 방법 및 장치
+  year: 2021
+- ISSN: null
+  authors: 한 욱신, 이 정훈, 나 인혁, 김 민우, 신 승현, 김 소현, 김 민수
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2021-0011087, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 1
+  title: 문서-개체 그래프 생성 장치 및 방법, 부분 그래프 생성 장치 및 방법
+  year: 2021
+- ISSN: null
+  authors: 한 욱신, 나 인혁, 김 현지, 강 혁규
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2019-0174967, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 12
+  title: 자연어 단어를 데이터베이스의 컬럼 및 테이블과 연결하는 방법
+  year: 2019
+- ISSN: null
+  authors: 한 욱신, 강 혁규, 김 현지, 나 인혁
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2019-0174966, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 12
+  title: 신경망 기반 자연어로부터 SQL 질의 번역 시 사용되는 컬럼 및 테이블을 예측하는 방법
+  year: 2019
+- ISSN: null
+  authors: 한 욱신, 고 성윤
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2019-0067897, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 6
+  title: 그래프 데이터 처리 방법 및 그래프 데이터 처리 장치
+  year: 2019
+- ISSN: null
+  authors: 한 욱신, 조 정호, 이 유경, 김 현지, 홍 기재
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2018-0170691, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/1xc3QeLtB1l8xBCnAFlXK94XV5E2xOez-/view?usp=sharing
+  month: 12
+  title: 텍스트 데이터에서 의미상 대응하는 자연어-SQL의 매핑 방법
+  year: 2018
+- ISSN: null
+  authors: 한 욱신, 소 병훈, 김 현지
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2018-0168639, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/1hxYRlzhOtIUyIoevSBLVP2FxZghCVb3A/view?usp=sharing
+  month: 12
+  title: 구조화 질의어 간의 동치성 판별 방법 및 장치
+  year: 2018
+- ISSN: null
+  authors: 한 욱신, 소 병훈, 박 용희. 김 현지, 김 경민
+  description: null
+  highlight: 0
+  image: null
+  info: 특허청, 출원번호 10-2017-0182561, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/open?id=1AAJwg_2EPERkq8g36p0aL0r6jWOVhk8i
+  month: 12
   title: 컨벌루션 신경망 기반 영문 텍스트로부터 관계형 데이터베이스의 튜플을 추출하는 방법
-- authors: 한 욱신, 이 준영, 이 진수, 김 현지
-  description: ''
+  year: 2017
+- ISSN: null
+  authors: 한 욱신, 이 준영, 이 진수, 김 현지
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허출원번호 10-2016-0129170, 출원일 2016년 10월 6일. [중견연구자, 차세대, 명품IT, 마이크로소프트]'
-    url: ''
+  image: null
+  info: 특허청, 특허출원번호 10-2016-0129170, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/open?id=1Wiw7blLAgk089ELzDrY-0XXhOh1qjJc_
+  month: 10
   title: 중첩 오버래핑 기반의 서브 그래프 리스팅 방법
-- authors: 한 욱신, 이 준영, 김 현지
-  description: ''
+  year: 2016
+- ISSN: null
+  authors: 한 욱신, 이 준영, 김 현지
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허출원번호 10-2016-0059818, 출원일 2016년 5월 16일. 특허등록번호 10-1801468,                                            등록일
-      2017년 11월 20일. [중견(NRF-2014R1A2A2A01004454), 명품IT, 마이크로소프트과제]'
-    url: ''
+  image: null
+  info: 특허청, 특허출원번호 10-2016-0059818, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/14ep8l1LyWbh2kOFRBYdA2Hl6xCNrQj7h/view?usp=sharing
+  month: 5
   title: 단일머신 상의 대규모 그래프에서 서브그래프를 열거하는 병렬 기법
-- authors: 한 욱신, 이 준영, 이 진수, 김 현지
-  description: ''
+  year: 2016
+- ISSN: null
+  authors: 한 욱신, 이 준영, 이 진수, 김 현지
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허출원번호 10-2015-0079652, 출원일 2015년 6월 5일, 특허등록번호 10-1656619,                                                       등록일
-      2016년 9월 5일. [중견연구자지원사업(NRF-2014R1A2A2A01004454), 차세대정보컴퓨팅기술개발사업(NRF-2012M3C4A7033342),
-      명품IT(IITP-2015-R0346- 15-1007), 마이크로소프트과제]'
-    url: ''
+  image: null
+  info: 특허청, 특허출원번호 10-2015-0079652, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/0BwivuuKuLhbMOUZCbmE0ekdnSVE/view?usp=sharing
+  month: 6
   title: RBI 그래프 기반의 서브 그래프 리스팅 방법
-- authors: 한 욱신, 유 환조, 김 진하
-  description: ''
+  year: 2015
+- ISSN: null
+  authors: 한 욱신, 유 환조, 김 진하
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허출원번호 10-2015-0000685, 출원일 2015년 1월 5일, 특허등록번호 10-1635307,                                                          등록일
-      2016년 6월 24일. [차세대정보컴퓨팅기술개발사업(유환조, 2012M3C4A7033344)]'
-    url: ''
+  image: null
+  info: 특허청, 특허출원번호 10-2015-0000685, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/0B50YpedMzv68Ylk4S2dSVzZRWjQ/view?usp=sharing
+  month: 1
   title: 삼각형 식별 장치 및 이를 이용한 삼각형 식별 방법
-- authors: 한 욱신, 이 정훈
-  description: ''
+  year: 2015
+- ISSN: null
+  authors: 한 욱신, 이 정훈
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허출원번호 10-2014-0050819, 출원일 2014년 4월 28일, 특허등록번호 10-1556060,                                                              등록일
-      2015년 9월 21일. [중견연구자지원사업(NRF-2011-0016520, 종료과제), 차세대정보컴퓨팅기술개발사업(NRF-2012M3C4A7033342)]'
-    url: ''
+  image: null
+  info: 특허청, 특허출원번호 10-2014-0050819, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/file/d/0B50YpedMzv68Q3ptRTNWWnBjTVk/view?usp=sharing
+  month: 4
   title: 후보 영역 탐색 기법을 활용한 부분 그래프 동형 검색
-- authors: 한 욱신, 이 정훈
-  description: ''
+  year: 2014
+- ISSN: null
+  authors: 한 욱신, 이 정훈
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 10-1288208, 등록일 2013년 7월 15일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 10-1288208, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/(2769684636)_%ED%8A%B9%ED%97%88%EC%A6%9D_10-1288208.pdf
+  month: 7
   title: RDF 데이터에 대한 SPARQL 질의 결과의 개체 관계 변형 시스템 및 그 방법
-- authors: 한 욱신, 이 정훈
-  description: ''
+  year: 2013
+- ISSN: null
+  authors: 한 욱신, 이 정훈
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 10-1263583호, 등록일 2013년 05월 06일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 10-1263583호, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/2196440881_%ED%8A%B9%ED%97%88%EC%A6%9D_10_1263583.pdf
+  month: 5
   title: 대용량 온톨로지 데이터를 위한 메디톨로지 시스템 및 그 방법
-- authors: 한 욱신, 이 진수, 이정훈
-  description: ''
+  year: 2013
+- ISSN: null
+  authors: 한 욱신, 이 진수, 이정훈
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허출원번호 10-2012-0112903, 출원일 2012년 10월 11일, 특허등록번호 10-1409672, 등록일 2014년
-      06월 18일.'
-    url: ''
+  image: null
+  info: 특허출원번호 10-2012-0112903, 출원일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/%EB%B6%84%ED%95%A0-%ED%8A%B8%EB%A6%AC_%EC%A4%91%EC%B2%A9_%EB%A3%A8%ED%94%84_%EC%A1%B0%EC%9D%B8_%EB%B0%A9%EB%B2%95_%EC%B6%9C%EC%9B%90%EC%84%9C.pdf
+  month: 10
   title: 분할-트리 중첩 루프 조인 방법
-- authors: 한 욱신, 이 진수
-  description: ''
+  year: 2012
+- ISSN: null
+  authors: 한 욱신, 이 진수
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 10-1185706, 등록일 2012년 9월 18일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 10-1185706, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/%EB%A9%80%ED%8B%B0_%EC%BD%94%EC%96%B4_%EC%94%A8%ED%94%BC%EC%9C%A0_%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C_%EB%B3%91%EB%A0%AC_%EC%A7%88%EC%9D%98_%EC%B5%9C%EC%A0%81%ED%99%94_%EB%B0%A9%EB%B2%95_%EB%B0%8F_%EC%8B%9C%EC%8A%A4%ED%85%9C_%ED%8A%B9%ED%97%88%EC%A6%9D.pdf
+  month: 9
   title: 멀티 코어 씨피유 환경에서 병렬 질의 최적화 방법 및 시스템
-- authors: 한 욱신, 곽 우성
-  description: ''
+  year: 2012
+- ISSN: null
+  authors: 한 욱신, 곽 우성
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 10-1093427, 등록일 2011년 12월 6일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 10-1093427, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90%EC%84%9C_%EA%B3%B5%EA%B0%84_%EC%A1%B0%EC%9D%B8%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_%ED%8A%9C%ED%94%8C_%EC%B6%94%EC%B6%9C_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EB%B0%8F_%EB%B0%A9%EB%B2%95_%ED%8A%B9%ED%97%88%EC%A6%9D.pdf
+  month: 12
   title: 웹페이지에서 공간 조인을 활용한 튜플 추출 시스템 및 방법
-- authors: 한 욱신, 양 진옥, 박 세영
-  description: ''
+  year: 2011
+- ISSN: null
+  authors: 한 욱신, 양 진옥, 박 세영
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 10-1045481, 등록일 2011년 6월 23일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 10-1045481, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://wshan.net/%ED%8A%B9%ED%97%88/2196440881_%ED%8A%B9%ED%97%88%EC%A6%9D_10_1263583.pdf
+  month: 6
   title: 부분 매칭을 이용한 웹 페이지의 데이터 추출 방법 및 그 기록매체
-- authors: 황 규영, 박 병권, 한 욱신, 이 영구
-  description: ''
+  year: 2011
+- ISSN: null
+  authors: 황 규영, 박 병권, 한 욱신, 이 영구
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' 특허청, 특허등록번호 285265, 등록일 2001년 1월2일.'
-    url: ''
+  image: null
+  info: 특허청, 특허등록번호 285265, 등록일
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: 1
   title: 데이터베이스 관리시스템과 정보 검색의 밀결합을 위하여 서브인덱스와 대용량 객체를 이용한 역인덱스 저장구조
+  year: 2001

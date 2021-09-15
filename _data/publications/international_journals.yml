@@ -1,370 +1,593 @@
-- authors: Lee, J., Han, W., Na, H.,  Park, C., Kim, K.,  Kim, D., Lee, J., Cha, S.,  and
-    Moon, S.
-  description: ''
+- ISSN: 2150-8097
+  authors: Yuan, Z., Chua, H., Bhowmick, S., Ye, Z., Han, W., and Choi, B.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'The VLDB Journal, pp.1-24, April 2018. (ISSN: 2150-8097)'
-    url: ''
+  image: null
+  info: In 47th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 14, No. 11, pp. 1979-1991
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.vldb.org/pvldb/vol14/p1979-bhowmick.pdf
+  month: Aug.
+  title: 'Towards Plug-and-Play Visual Graph Query Interfaces: Data-driven Canned
+    Pattern Selection for Large Networks'
+  year: 2021
+- ISSN: 2150-8097
+  authors: Min, S., Park, S., Park, K., Giammarresi, D., Italiano, G., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 47th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 14, No. 8, pp.1298-1310
+  is_co-corresponding_author: true
+  is_corresponding_author: false
+  link: http://www.vldb.org/pvldb/vol14/p1298-han.pdf
+  month: Aug.
+  title: Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming
+  year: 2021
+- ISSN: 2150-8097
+  authors: Kim, H., So, B., Han, W., and Lee, H.
+  description: null
+  highlight: 0
+  image: null
+  info: In 46th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 13, No. 10, pp. 1737-1750
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: https://dl.acm.org/doi/10.5555/3389133.3416230
+  month: Aug.
+  title: 'Natural language to SQL: Where are we today?'
+  year: 2020
+- ISSN: 2150-8097
+  authors: Wi, S., Han, W., Chang, C., and Kim, K.
+  description: null
+  highlight: 0
+  image: null
+  info: In 46th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 13, No. 12, pp. 3019-3031
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: https://dl.acm.org/doi/10.14778/3415478.3415531
+  month: Aug.
+  title: Towards Multi-way Join Aware Optimizer in SAP HANA
+  year: 2020
+- ISSN: 2150-8097
+  authors: Lee, J., Lee, H., Ko, S., Kim, K., Andrei, M., Keller, F., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 46th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 13, No. 12, pp. 3112-3124
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: https://dl.acm.org/doi/10.14778/3415478.3415538
+  month: Aug.
+  title: Asymmetric-Partition Replication for Highly Scalable Distributed Transaction
+    Processing in Practice
+  year: 2020
+- ISSN: 2150-8097
+  authors: Kim, H., Min, S., Park, K., Lin, X., Hong, S., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 46th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 13, No. 9, pp. 1456-1468
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://www.vldb.org/pvldb/vol13/p1456-kim.pdf
+  month: Aug.
+  title: 'IDAR: Fast Supergraph Search Using DAG Integration'
+  year: 2020
+- ISSN: 2150-8097
+  authors: Ren, X., Wang, J., Yu, J., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 45th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 12, No. 11, pp. 1344-1356
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://dl.acm.org/doi/10.14778/3342263.3342272
+  month: Aug.
+  title: Fast and Robust Distributed Subgraph Enumeration
+  year: 2019
+- ISSN: null
+  authors: Xie, M., Bhowmick, S., Su, H., Cong, G., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In 44th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 11, No. 12, Rio De Janeiro, Brazil
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://drive.google.com/open?id=1PY3uTHwNYLnpRmuVNBR6O0Y4iur3oJvP
+  month: Aug.
+  title: 'PANDA: A System for Partial Topology-based Search on Large Networks'
+  year: 2018
+- ISSN: 2150-8097
+  authors: Lee, J., Han, W., Na, H., Park, C., Kim, K., Kim, D., Lee, J., Cha, S.,
+    and Moon, S.
+  description: null
+  highlight: 0
+  image: null
+  info: The VLDB Journal, pp. 1-24
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://dl.acm.org/doi/10.1007/s00778-018-0503-z
+  month: Apr.
   title: Parallel Replication across Formats for Scaling Out Mixed OLTP/OLAP Workloads
     in Main-Memory Databases
-- authors: Kim, S., Kim, D., Oh, J., Hwang, J., Han, W., Chen, W., and Yu, H.
-  description: ''
+  year: 2018
+- ISSN: 0020-0255
+  authors: Kim, S., Kim, D., Oh, J., Hwang, J., Han, W., Chen, W., and Yu, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 415-416, pp. 171-189, Nov. 2017. (ISSN: 0020-0255)
-      (SCI) [[삼성미래기술육성사업(SRFC-IT1401-04)]'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 415-416, pp. 171-189
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://www.sciencedirect.com/science/article/pii/S002002551730796X
+  month: Nov.
   title: Scalable and Parallelizable Influence Maximization with Random Walk Ranking
     and Rank Merge Pruning
-- authors: Lee, J., Moon, S., Kim, K., Kim, D., Cha, S., Han, W., Park, C., Na, H.,
+  year: 2017
+- ISSN: 2150-8097
+  authors: Lee, J., Moon, S., Kim, K., Kim, D., Cha, S., Han, W., Park, C., Na, H.,
     and Lee, J.
-  description: ''
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 43rd Int''l Conf. on Very Large Data Bases (VLDB)/Proc. the VLDB
-      Endowment (PVLDB), Vol. 10, No. 12, pp.1598-1609, August 2017. (ISSN: 2150-8097)
-      (Industrial paper) (Corresponding author) [사사없음]'
-    url: ''
+  image: null
+  info: In 43rd Int'l Conf. on Very Large Data Bases (VLDB)/Proc. the VLDB Endowment
+    (PVLDB), Vol. 10, No. 12, pp. 1598-1609
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: https://dl.acm.org/doi/10.14778/3137765.3137767
+  month: Aug.
   title: Parallel Replication across Formats in SAP HANA for Scaling Out Mixed OLTP/OLAP
     Workloads
-- authors: Kim, D., Hyeon, D., Oh, J., Han, W., and Yu, H.
-  description: ''
+  year: 2017
+- ISSN: 0020-0255
+  authors: Kim, D., Hyeon, D., Oh, J., Han, W., and Yu, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 394, pp. 217-231, July 2017. (ISSN: 0020-0255)
-      (SCI) [삼성(SRFC-IT1401-04)]'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 394, pp. 217-231
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.sciencedirect.com/science/article/pii/S0020025517305121
+  month: Jul.
   title: Influence Maximization Based on Reachability Sketches in Dynamic Graphs
-- authors: Labouseur, A., Birnbaum, J., Olsen, P., Spillane, S., Vijayan, J., Han,
+  year: 2017
+- ISSN: 0926-8782
+  authors: Labouseur, A., Birnbaum, J., Olsen, P., Spillane, S., Vijayan, J., Han,
     W., and Hwang, J.
-  description: ''
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Distributed and Parallel Databases, Vol. 33, Issue 4, pp. 479-514, December
-      2015. (ISSN: 0926-8782) (SCIE)'
-    url: ''
+  image: null
+  info: Distributed and Parallel Databases, Vol. 33, Issue 4, pp. 479-514
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://link.springer.com/article/10.1007/s10619-014-7140-3
+  month: Dec.
   title: 'The G* Graph Database: Efficiently Managing Large Distributed Dynamic Graphs'
-- authors: Kim, J., Shin, H., Han, W., Hong, S., and Chafi, H.
-  description: ''
+  year: 2015
+- ISSN: 2150-8097
+  authors: Kim, J., Shin, H., Han, W., Hong, S., and Chafi, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 41st Int''l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB
-      Endowment (PVLDB), Vol. 8, No. 11, pp. 1238-1249, July 2015. (ISSN: 2150-8097)
-      (Corresponding author) [Oracle Labs'' External Research Office, 중견연구자지원(NRF-2014R1A2A2A01004454),
-      명품IT(IITP-2015-R0346- 15-1007)]'
-    url: ''
+  image: null
+  info: In 41st Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 8, No. 11, pp. 1238-1249
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://dl.acm.org/citation.cfm?id=2809985
+  month: Jul.
   title: Taming Subgraph Isomorphism for RDF Query Processing
-- authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
-  description: ''
+  year: 2015
+- ISSN: 1041-4347
+  authors: Kim, M., Lee, S., Han, W., Park, H., and Lee, J.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'IEEE Transactions on Knowledge and Data Engineering, Vol. 27, No. 11,
-      pp. 2658-2671, April 2015. (ISSN: 1041-4347) (SCI) (Corresponding author) [신진연구자지원(김민수,
-      2014008227)]'
-    url: ''
+  image: null
+  info: IEEE Transactions on Knowledge and Data Engineering, Vol. 27, No. 11, pp.
+    2658-2671
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7079453
+  month: Apr.
   title: 'DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale
     Networks'
-- authors: Lee, J., Kasperovics, R., Han, W., Kim, M., Lee, J., and Cho, H.
-  description: ''
+  year: 2015
+- ISSN: 1748-5673
+  authors: Lee, J., Kasperovics, R., Han, W., Kim, M., Lee, J., and Cho, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ' Int''l Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp.
-      205-222, 2015. (ISSN: 1748-5673) (SCIE) (Corresponding author) [중견연구자지원(NRF-2011-0016520,
-      종료과제)]'
-    url: ''
+  image: null
+  info: Int'l Journal of Data Mining and Bioinformatics, Vol. 11, No. 2, pp. 205-222
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijdmb
+  month: null
   title: An Efficient Algorithm for Updating Regular Expression Indexes in RDF Databases
-- authors: Song, M., Yu, H., and Han, W.
-  description: ''
+  year: 2015
+- ISSN: 1472-6947
+  authors: Song, M., Yu, H., and Han, W.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'BMC Medical Informatics and Decision Making, 15(Suppl 1):S9, May 2015.
-      (ISSN: 1472-6947) (SCIE)                        (Corresponding author) [중견연구자지원(NRF-2014R1A2A2A01004454),
-      명품IT(NIPA-2013-H0203-13-1001), 바이오.의료기술개발사업(Grant No. 2013M3A9C4078138) ]'
-    url: ''
+  image: null
+  info: BMC Medical Informatics and Decision Making, 15(Suppl 1):S9
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://www.biomedcentral.com/1472-6947/15/S1/S9
+  month: May.
   title: Developing a Hybrid Dictionary-based Bio-entity Recognition Technique
-- authors: Lee, J., Han, W., An, K., and Sung, K.
-  description: ''
+  year: 2015
+- ISSN: 1380-7501
+  authors: Lee, J., Han, W., An, K., and Sung, K.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Multimedia Tools and Applications, Vol. 74, Issue 10, pp. 3599-3615,
-      May 2015. (ISSN: 1380-7501) (SCIE)                   (Corresponding author)
-      [중견연구자지원((NRF-2011-0016520, 종료과제), ETRI(MKE/ISTK[Mega Convergence Core Technology
-      Development], 종료과제)]'
-    url: ''
+  image: null
+  info: Multimedia Tools and Applications, Vol. 74, Issue 10, pp. 3599-3615
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://link.springer.com/article/10.1007%2Fs11042-013-1672-9#page-1
+  month: May.
   title: Towards intelligent in-vehicle sensor database management systems
-- authors: Whang, K., Lee, j., Lee, M., Han, W., Kim, M., and Kim, j.
-  description: ''
+  year: 2015
+- ISSN: null
+  authors: Whang, K., Lee, j., Lee, M., Han, W., Kim, M., and Kim, j.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'World Wide Web Journal, Vol. 18, Issue 3, pp. 491-520, May 2015. (ISSN
-      : 1386-145X) (SCIE) [(황규영, 2012026326)]'
-    url: ''
+  image: null
+  info: World Wide Web Journal, Vol. 18, Issue 3, pp. 491-520
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://link.springer.com/article/10.1007%2Fs11280-013-0264-y#
+  month: May.
   title: DB-IR integration using tight-coupling in the Odysseus DBMS
-- authors: Han, W., Kwak, W., Yu, H., Lee, J., and Kim, M.
-  description: ''
+  year: 2015
+- ISSN: null
+  authors: Han, W., Kwak, W., Yu, H., Lee, J., and Kim, M.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 261, pp. 132-148, Mar. 2014. (ISSN : 0020-0255)
-      (SCI)'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 261, pp. 132-148
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513006695
+  month: Mar.
   title: Leveraging spatial join for robust tuple extraction from web pages
-- authors: Kim, Y., Ko, I., Han, W., and Yu, H.
-  description: ''
+  year: 2014
+- ISSN: null
+  authors: Kim, Y., Ko, I., Han, W., and Yu, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 257, pp. 32-53, Feb. 2014. (ISSN : 0020-0255)
-      (SCI)'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 257, pp. 32-53
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513006592
+  month: Feb.
   title: 'iKernel: Exact indexing for support vector machines'
-- authors: Kim, J., Han, W., Oh, J., Kim, S., and Yu, H.
-  description: ''
+  year: 2014
+- ISSN: 0020-0255
+  authors: Kim, J., Han, W., Oh, J., Kim, S., and Yu, H.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 255, pp. 135-154, Jan. 2014. (ISSN: 0020-0255)
-      (SCI)'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 255, pp. 135-154
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.sciencedirect.com/science/article/pii/S0020025513005203
+  month: Jan.
   title: Processing time-dependent shortest path queries without pre-computed speed
     information on road networks
-- authors: Lee, J., Han, W., Kasperovics, R., and Lee, J.
-  description: ''
+  year: 2014
+- ISSN: 2150-8097
+  authors: Lee, J., Han, W., Kasperovics, R., and Lee, J.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 39th Int''l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB
-      Endowment (PVLDB), Vol. 6, No. 2, pp. 133-144, Dec. 2012. (ISSN: 2150-8097)
-      [SOFTWARE]'
-    url: ''
+  image: null
+  info: In 39th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 6, No. 2, pp. 133-144
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=2448946
+  month: Dec.
   title: An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases
-- authors: Song, M., Yu, H., and Han, W.
-  description: ''
+  year: 2012
+- ISSN: 1471-2105
+  authors: Song, M., Yu, H., and Han, W.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'BMC Bioinformatics 2011, 12(Suppl 12):S4. (ISSN: 1471-2105) (SCIE)'
-    url: ''
+  image: null
+  info: BMC Bioinformatics
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://link.springer.com/article/10.1186%2F1471-2105-12-S12-S4#
+  month: null
   title: Combining Active Learning and Semi-supervised Learning Techniques to Extract
     Protein Interaction Sentences
-- authors: Lee, J., Pham, M., Lee, J., Han, W., Cho, H., Yu, H., and Lee, J.
-  description: ''
+  year: 2011
+- ISSN: 1471-2105
+  authors: Lee, J., Pham, M., Lee, J., Han, W., Cho, H., Yu, H., and Lee, J.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'BMC Bioinformatics 2011, 12(Suppl 2):S6. (ISSN: 1471-2105) (SCIE) (Corresponding
-      author)'
-    url: ''
+  image: null
+  info: BMC Bioinformatics
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://www.biomedcentral.com/1471-2105/12/S2/S6
+  month: null
   title: Processing SPARQL Queries with Regular Expressions in RDF Databases
-- authors: Han, W., Loh, W., and Whang, K.
-  description: ''
+  year: 2011
+- ISSN: 0020-0255
+  authors: Han, W., Loh, W., and Whang, K.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 180, No. 21, pp. 4118-4135, Nov. 2010. (ISSN:
-      0020-0255) (SCI)'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 180, No. 21, pp. 4118-4135
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ac.els-cdn.com/S0020025510003245/1-s2.0-S0020025510003245-main.pdf?_tid=f91c26bcff89259d7558d819e6ea7cf9&acdnat=1336010269_78c860a3fd765e4173cd8ca57c121836
+  month: Nov.
   title: 'Type-Level Access Pattern View: Enhancing Prefetching Performance Using
     the Iterative and Recursive Patterns'
-- authors: Whang, K., Lee, J., Kim, M., Lee, M., Lee, K., Han, W., and Kim, J.
-  description: ''
+  year: 2010
+- ISSN: 1384-6175
+  authors: Whang, K., Lee, J., Kim, M., Lee, M., Lee, K., Han, W., and Kim, J.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'GeoInformatica, Vol. 14, No. 4, pp. 425-446, Oct. 2010. (ISSN: 1384-6175)
-      (SCIE)'
-    url: ''
+  image: null
+  info: GeoInformatica, Vol. 14, No. 4, pp. 425-446
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.springerlink.com/content/m6851246706v6n65/fulltext.pdf
+  month: Oct.
   title: Tightly-Coupled Spatial Database Features in the Odysseus/OpenGIS DBMS for
     High-Performance
-- authors: Lee, K., Whang, K., and Han, W.
-  description: ''
+  year: 2010
+- ISSN: 1386-145X
+  authors: Lee, K., Whang, K., and Han, W.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'World Wide Web Journal, Vol. 13, No. 3, pp. 343-371, Sept. 2010. (ISSN:
-      1386-145X) (SCIE)'
-    url: ''
+  image: null
+  info: World Wide Web Journal, Vol. 13, No. 3, pp. 343-371, Sept.
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.springerlink.com/content/404448t43m80xr45/fulltext.pdf
+  month: null
   title: 'XMin: Minimizing Tree Pattern Queries with Minimality Guarantee'
-- authors: Han, W., Lee, J., Duc, P., and Yu, J.
-  description: ''
+  year: 2010
+- ISSN: 2150-8097
+  authors: Han, W., Lee, J., Duc, P., and Yu, J.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 36th Int''l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB
-      Endowment (PVLDB), Vol. 3, No.1, pp.449-459, Sept. 2010. (ISSN: 2150-8097) [SOFTWARE]
-      (invited to VLDB Journal as best of VLDB 2010 papers )'
-    url: ''
+  image: null
+  info: In 36th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 3, No.1, pp. 449-459, Sept. 2010. (invited to VLDB Journal as best
+    of VLDB
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1920901
+  month: null
   title: 'iGraph: A Framework for Comparisons of Disk-based Graph Indexing Techniques'
-- authors: Yu, H., Kim, T., Oh, J., Ko, I., Kim, S., and Han, W.
-  description: ''
+  year: 2010
+- ISSN: 1471-2105
+  authors: Yu, H., Kim, T., Oh, J., Ko, I., Kim, S., and Han, W.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'BMC Bioinformatics 2010, 11(Suppl 2):S6. (ISSN: 1471-2105) (SCIE) (Corresponding
-      author)'
-    url: ''
+  image: null
+  info: BMC Bioinformatics
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://dl.acm.org/citation.cfm?id=1651328
+  month: null
   title: Enabling multi-level relevance feedback on PubMed by integrating rank learning
     into DBMS
-- authors: Lee, K., Whang, K., Han, W., and Kim. M.
-  description: ''
+  year: 2010
+- ISSN: 1066-8888
+  authors: Lee, K., Whang, K., Han, W., and Kim. M.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'The VLDB Journal, Vol. 19, No. 4, pp. 503-529, Aug. 2010. (ISSN: 1066-8888)
-      (SCI)'
-    url: ''
+  image: null
+  info: The VLDB Journal, Vol. 19, No. 4, pp. 503-529
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.springerlink.com/content/83338762l176955t/
+  month: Aug.
   title: 'Structural Consistency: Enabling XML Keyword Search to Eliminate Spurious
     Results Consistently'
-- authors: Han, W., Kim, J., Lee, B., Tao, Y., and Markl, V.
-  description: ''
+  year: 2010
+- ISSN: 1041-4347
+  authors: Han, W., Kim, J., Lee, B., Tao, Y., and Markl, V.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'IEEE Transactions on Knowledge and Data Engineering, Vol. 21, No. 2,
-      pp. 220-233, Feb. 2009. (ISSN: 1041-4347) (SCI)'
-    url: ''
+  image: null
+  info: IEEE Transactions on Knowledge and Data Engineering, Vol. 21, No. 2, pp. 220-233
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.158.260
+  month: Feb.
   title: Cost-Based Predictive Spatio-Temporal Join
-- authors: Han, W., Kwak, W., Lee, J., Lohman, G., and Markl, V.
-  description: ''
+  year: 2009
+- ISSN: 2150-8097
+  authors: Han, W., Kwak, W., Lee, J., Lohman, G., and Markl, V.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 34th Int''l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB
-      Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097) (extended version)'
-    url: ''
+  image: null
+  info: In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 1, No. 1
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1453882
+  month: Aug.
   title: Parallelizing Query Optimization
-- authors: Han, W., Jiang, H., Ho, H., and Li, Q.
-  description: ''
+  year: 2008
+- ISSN: 2150-8097
+  authors: Han, W., Jiang, H., Ho, H., and Li, Q.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'In 34th Int''l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB
-      Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097)'
-    url: ''
+  image: null
+  info: In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment
+    (PVLDB), Vol. 1, No. 1
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1453891
+  month: Aug.
   title: 'StreamTX: Extracting Tuples from Streaming XML Data'
-- authors: Lee, J., Whang, K. Han, W., and Song, I.
-  description: ''
+  year: 2008
+- ISSN: 1066-8888
+  authors: Lee, J., Whang, K. Han, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'The VLDB Journal , Vol. 16, No. 3, pp. 371-387, July 2007. (ISSN: 1066-8888)
-      (SCI)'
-    url: ''
+  image: null
+  info: The VLDB Journal , Vol. 16, No. 3, pp. 371-387
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1265299
+  month: Jul.
   title: 'The Dynamic Predicate: Integrating Access Control with Query Processing
     in XML Databases'
-- authors: Lee, J., Whang, K., Han, W., and Song, I.
-  description: ''
+  year: 2007
+- ISSN: 0267-6192
+  authors: Lee, J., Whang, K., Han, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Int''l Journal of Computer Systems Science & Engineering, Vol. 21, No.
-      6, pp. 395-404, Nov. 2006. (ISSN: 0267-6192) (SCIE)'
-    url: ''
+  image: null
+  info: Int'l Journal of Computer Systems Science & Engineering, Vol. 21, No. 6, pp.
+    395-404
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://astp.jst.go.jp/modules/search/DocumentDetail/1226-2285%2B%2540%2B1229-7739%2B%2540%2B_31_6_Hippocratic%2BXML%2BDatabases%253A%2BA%2BModel%2Band%2BAccess%2BControl%2BMechanism_%25ED%259E%2588%25ED%258F%25AC%25ED%2581%25AC%25EB%259D%25BC%25ED%2585%258C%25EC%258A%25A4%2BXML%2B%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25EB%25B2%25A0%25EC%259D%25B4%25EC%258A%25A4%253A%2B%25EB%25AA%25A8%25EB%258D%25B8%2B%25EB%25B0%258F%2B%25EC%2595%25A1%25EC%2584%25B8%25EC%258A%25A4%2B%25ED%2586%25B5%25EC%25A0%259C%2B%25EB%25B0%25A9%25EB%25B2%2595
+  month: Nov.
   title: 'Hippocratic XML Databases: A Model and an Access Control Mechanism'
-- authors: Park, Y., Whang, K., Lee, B., and Han, W.
-  description: ''
+  year: 2006
+- ISSN: 0164-1212
+  authors: Park, Y., Whang, K., Lee, B., and Han, W.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Journal of Systems and Software, Vol. 79, No. 2, pp. 180-190, Feb. 2006.
-      (ISSN: 0164-1212) (SCIE)'
-    url: ''
+  image: null
+  info: Journal of Systems and Software, Vol. 79, No. 2, pp. 180-190
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ac.els-cdn.com/S0164121205001007/1-s2.0-S0164121205001007-main.pdf?_tid=2e31315f757b8bab6f303e8c292c700e&acdnat=1336010610_463306b1672d900794c401a2075cb327
+  month: Feb.
   title: Efficient Evaluation of Linear Path Expressions on Large-Scale Heterogeneous
     XML Documents Using Information Retrieval Techniques
-- authors: Lee, M., Whang, K., Han, W., and Song, I.
-  description: ''
+  year: 2006
+- ISSN: 1041-4347
+  authors: Lee, M., Whang, K., Han, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'IEEE Transactions on Knowledge and Data Engineering, Vol. 18, No. 2,
-      pp. 245-260, Feb. 2006. (ISSN: 1041-4347) (SCI)'
-    url: ''
+  image: null
+  info: IEEE Transactions on Knowledge and Data Engineering, Vol. 18, No. 2, pp. 245-260
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1107342
+  month: Feb.
   title: 'Transform-Space View: Performing Spatial Join in the Transform Space Using
     Original-Space Indexes'
-- authors: Lee, M., Whang, K., Han, W., and Song, I.
-  description: ''
+  year: 2006
+- ISSN: 0164-1212
+  authors: Lee, M., Whang, K., Han, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Journal of Systems and Software, Vol. 78, No. 3, pp. 257-269, Dec. 2005.
-      (ISSN: 0164-1212) (SCIE)'
-    url: ''
+  image: null
+  info: Journal of Systems and Software, Vol. 78, No. 3, pp. 257-269
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ac.els-cdn.com/S016412120400202X/1-s2.0-S016412120400202X-main.pdf?_tid=20e536a58b8c28ced451781e5f3180a7&acdnat=1336010761_4987ede379315ea3e7aac447f6470e02
+  month: Dec.
   title: 'Adaptive Row Major Order: a New Space Filling Curve for Efficient Spatial
     Join Processing in the Transform Space'
-- authors: Han, W., Whang, K., and Moon, Y.
-  description: ''
+  year: 2005
+- ISSN: 1041-4347
+  authors: Han, W., Whang, K., and Moon, Y.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'IEEE Transactions on Knowledge and Data Engineering, Vol. 17, No. 10,
-      pp. 1436-1488, Oct. 2005. (ISSN: 1041-4347) (SCI)'
-    url: ''
+  image: null
+  info: IEEE Transactions on Knowledge and Data Engineering, Vol. 17, No. 10, pp.
+    1436-1488
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://dl.acm.org/citation.cfm?id=1083969
+  month: Oct.
   title: A Formal Framework for Prefetching Based on the Type-Level Access Pattern
     in Object-Relational DBMSs
-- authors: Lee, M., Han, W., and Whang, K.
-  description: ''
+  year: 2005
+- ISSN: 0267-6192
+  authors: Lee, M., Han, W., and Whang, K.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Int''l Journal of Computer Systems Science and Engineering, Vol. 19,
-      No. 6, pp. 355-362, Nov. 2004. (ISSN: 0267-6192) (SCIE)'
-    url: ''
+  image: null
+  info: Int'l Journal of Computer Systems Science and Engineering, Vol. 19, No. 6,
+    pp. 355-362
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: https://www.researchgate.net/publication/220403985_Transformation-Based_Spatial_Partition_Join
+  month: Nov.
   title: Transformation-Based Spatial Partition Join
-- authors: Lee, S., Whang, K., Moon, Y., Han, W., and Song, I.
-  description: ''
+  year: 2004
+- ISSN: 1041-4347
+  authors: Lee, S., Whang, K., Moon, Y., Han, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'IEEE Transactions on Knowledge and Data Engineering, Vol. 15, No. 6,
-      pp. 1535-1551, Nov. 2003. (ISSN: 1041-4347) (SCI)'
-    url: ''
+  image: null
+  info: IEEE Transactions on Knowledge and Data Engineering, Vol. 15, No. 6, pp. 1535-1551
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1245291
+  month: Nov.
   title: Dynamic Buffer Allocation in Video-on-Demand Systems
-- authors: Han, W., Moon, Y., and Whang, K.
-  description: ''
+  year: 2003
+- ISSN: 0020-0255
+  authors: Han, W., Moon, Y., and Whang, K.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information Sciences, Vol. 152, No. 1, pp. 47-61, June 2003. (ISSN:
-      0020-0255) (SCI)'
-    url: ''
+  image: null
+  info: Information Sciences, Vol. 152, No. 1, pp. 47-61
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ac.els-cdn.com/S0020025502004127/1-s2.0-S0020025502004127-main.pdf?_tid=dcc12bed22dbe85c67661364703d176e&acdnat=1336011561_98471675a222523f7c687a795992aabe
+  month: Jun.
   title: 'PrefetchGuide: Capturing Navigational Access Patterns for Prefetching in
     Client/Server Object-Oriented/Object-Relational DBMSs'
-- authors: Han, W., Lee, K., and Lee, B.
-  description: ''
+  year: 2003
+- ISSN: 1660-1769
+  authors: Han, W., Lee, K., and Lee, B.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Journal of Object Technology, Vol. 2, No. 1, pp. 113-126, May 2003.
-      (ISSN: 1660-1769)'
-    url: ''
+  image: null
+  info: Journal of Object Technology, Vol. 2, No. 1, pp. 113-126
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://www.jot.fm/contents/issue_2003_05/article2.html
+  month: May.
   title: An XML Storage System for Object-Oriented/Object-Relational DBMSs
-- authors: Song, J., Whang, K., Lee, Y., Lee, M., Han, W., and Park, B.
-  description: ''
+  year: 2003
+- ISSN: 0950-5849
+  authors: Song, J., Whang, K., Lee, Y., Lee, M., Han, W., and Park, B.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information and Software Technology, Vol. 44, No. 7, pp. 419-429, May
-      2002. (ISSN: 0950-5849) (SCIE)'
-    url: ''
+  image: null
+  info: Information and Software Technology, Vol. 44, No. 7, pp. 419-429
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: http://ac.els-cdn.com/S0950584902000265/1-s2.0-S0950584902000265-main.pdf?_tid=9c81030dbe2aa4cf395fffa4a327bf09&acdnat=1336011887_4d08709e74f39a4a942dad674c6791cf
+  month: May.
   title: The Clustering Property of Corner Transformation for Spatial Database Applications
-- authors: Lee, J., Whang, K., Han, W., Cho, W., and Song, I.
-  description: ''
+  year: 2002
+- ISSN: 0950-5849
+  authors: Lee, J., Whang, K., Han, W., Cho, W., and Song, I.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: 'Information & Software Technology, Vol. 43, No. 5, pp. 309-323, Nov.
-      2001. (ISSN: 0950-5849) (SCIE) (Corresponding author)'
-    url: ''
+  image: null
+  info: Information & Software Technology, Vol. 43, No. 5, pp. 309-323
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: http://ac.els-cdn.com/S0950584900001683/1-s2.0-S0950584900001683-main.pdf?_tid=2242b27a7aa5e87064460034a68320e0&acdnat=1336012139_97b577738065b67a93d7865094b59b37
+  month: Nov.
   title: A Tunable Class Hierarchy Index for Object-Oriented Databases Using a Multi-dimensional
     Index Structure
+  year: 2001

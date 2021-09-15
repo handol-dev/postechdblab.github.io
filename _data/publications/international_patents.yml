@@ -1,33 +1,73 @@
-- authors: Wook-Shin Han, Wooseong Kwak, Jinsoo Lee, Guy M. Lohman, Volker Markl
-  description: ''
+- ISSN: null
+  authors: Wook-Shin Han, Hyuk Kyu Kang, Inhyuk Na, and Hyeonji Kim
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: U.S. Patent No. 8,166,022 B2, Apr. 2012.
-    url: ''
+  image: null
+  info: PCT, App. No. PCT/KR2019/018491
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Semantic Linking of Natural Language Words with Columns and Tables in Databases
+  year: 2019
+- ISSN: null
+  authors: Wook-Shin Han andSeongyun Ko
+  description: null
+  highlight: 0
+  image: null
+  info: U.S. App. No. US202000387548A1
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: Graph Data Processing Method and Apparatus Thereof
+  year: 2020
+- ISSN: null
+  authors: Wook-Shin Han, Wooseong Kwak, Jinsoo Lee, Guy M. Lohman, and Volker Markl
+  description: null
+  highlight: 0
+  image: null
+  info: U.S. Patent No. 8,166,022 B2
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Apr.
   title: System, Method, And Apparatus for Parallelizing Query Optimization
-- authors: Han, W., Ho, C., Jiang, H., and Li, Q.
-  description: ''
+  year: 2012
+- ISSN: null
+  authors: Han, W., Ho, C., Jiang, H., and Li, Q.
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: U.S. Patent No. 20090043806, June. 2008.
-    url: ''
+  image: null
+  info: U.S. Patent No. 20090043806, June.
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: null
   title: Efficient Tuple Extraction from Streaming XML Data
-- authors: Wook-Shin Han, Ching-Tien Ho, Haifeng Jiang, and Lucian Popa
-  description: ''
+  year: 2008
+- ISSN: null
+  authors: Wook-Shin Han, Ching-Tien Ho, Haifeng Jiang, and Lucian Popa
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: U.S. Patent No. 8,862,636 B2, Oct. 2014.
-    url: ''
+  image: null
+  info: U.S. Patent No. 8,862,636 B2
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Oct.
   title: Scalable Algorithms for Mapping-Based XML Transformation
-- authors: Kyu-Young Whang, Byung-Kwon Park, Wook-Shin Han, and Young-Koo Lee
-  description: ''
+  year: 2014
+- ISSN: null
+  authors: Kyu-Young Whang, Byung-Kwon Park, Wook-Shin Han, and Young-Koo Lee
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: US Patent No. 6,349,308 B1, Feb. 2002.
-    url: ''
+  image: null
+  info: US Patent No. 6,349,308 B1
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Feb.
   title: An Inverted Index Structure Using Subindexes and Large Objects for Tight
     Coupling of Information Retrieval with Database Management Systems
+  year: 2002
