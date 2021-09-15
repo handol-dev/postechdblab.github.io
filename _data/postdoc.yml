@@ -1,6 +1,8 @@
 - name: Dennis Singh Moirangthem
   photo: dennis.png
-  info: Postdoc
+  info: Postdoc, started June 2021
   email: dennis@dblab.postech.ac.kr
-  number_educ: 1
-  education1: N/A
+  number_educ: 3
+  education1: PhD with <a href="https://scholar.google.com/citations?user=LOCg7vsAAAAJ&hl=en">Minho Lee</a> and <a href="https://scholar.google.co.kr/citations?user=muz3BvEAAAAJ&hl=en">Gil-jin Jang</a>, Kyungpook National University, South Korea
+  education2: Master with <a href="https://scholar.google.co.in/citations?user=r0VwXjEAAAAJ&hl=en">VJ Shine</a> and <a href="https://scholar.google.co.in/citations?user=jiLiu4QAAAAJ&hl=en">Varaprasad Janamala</a>, Christ University, India
+  education3: Bachelor, Pondicherry University, India

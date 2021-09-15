@@ -1,6 +1,8 @@
 - name: Jeong Hoon Lee
   photo: jhlee.jpeg
-  info: Research Professor
+  info: Research Professor, started 2010
   email: jhlee@dblab.postech.ac.kr
-  number_educ: 1
-  education1: N/A
+  number_educ: 3
+  education1: PhD with <a href="https://scholar.google.com/citations?user=LZSo1YEAAAAJ&hl=ko">Kyu-Young Whang</a>, Korea Advanced Institute of Science and Technology (KAIST), South Korea
+  education2: Master with Sam Myo Kim, Kyungpook National University, South Korea
+  education3: Bachelor, Kyungpook National University, South Korea
