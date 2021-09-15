@@ -17,7 +17,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="20%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="17%" style="float: left" />
   <h4>Wook-Shin Han</h4>
   <i>Professor
   <ul style="overflow: hidden">
