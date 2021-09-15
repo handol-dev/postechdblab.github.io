@@ -19,7 +19,7 @@ permalink: /professor/
   <h5>Dept. of Computer Science and Engineering, Graduate School of AI, Dept. of Creative IT Engineering</h5>
   <h5>POSTECH</h5>
   <h5>Email: wshan.postechATgmail.com</h5>
-  <h5>Calendar: <img alt="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr" src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" style="background-color:transparent;text-align:left;line-height:1.5;font-size:10pt"></h5>
+  <h5>Calendar: <a href="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr"><img alt="http://www.google.com/calendar/embed?src=wshan@dblab.postech.ac.kr" src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" style="background-color:transparent;text-align:left;line-height:1.5;font-size:10pt"></a></h5>
 
 </div>
 </div>
@@ -282,6 +282,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <div class="col-sm-12 clearfix">
 [Full List]({{ site.url }}{{ site.baseurl }}/professor/full_pc_membership)
 </div>
+<div class="col-sm-12 clearfix" style="padding:0px">
 <ul>
 <li>SIGMOD:  2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo) </li>
 <li>VLDB: 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009 </li>
@@ -292,7 +293,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 <li>CIKM: 2016, 2013 (demo), 2012, 2011,2009 </li>
 </ul>
 </div>
-
+</div>
 
 #### Reviewer
 
