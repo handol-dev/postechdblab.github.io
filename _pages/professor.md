@@ -179,7 +179,7 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 </ul>
 </div>
  
-#### Selected PC Memberships Full List
+#### Selected PC Memberships
 
 <div class="row">
 <ul>

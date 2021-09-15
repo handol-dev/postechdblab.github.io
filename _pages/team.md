@@ -16,7 +16,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 ## Professor
 
 <div class="row">
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="25%" style="float: left" />
   <h4>Wook-Shin Han</h4>
   <i>Professor
@@ -30,14 +30,9 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 {% assign number_printed = 0 %}
 {% for member in site.data.professors %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -74,34 +69,18 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
   </ul>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 
 
 ## Post Doc.
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -138,26 +117,14 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
   </ul>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
 
 
 ## Ph.D. and Master Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.team_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -208,6 +175,238 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+## Bachelor Students
+{% assign number_printed = 0 %}
+{% for member in site.data.students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<!--
+## Administration Staff
+-->
+
+## Alumi
+
+<div class="row" style="text-align:center;font-size:20px">
+<i>I am proud of having worked with the following students!</i> -- wsh
+</div>
+
+<div class="row" style="text-align:center">
+After Aug. 2013 (after Prof. Han moved to POSTECH)
+</div>
+
+### Post-docs and Researchers
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jinha Kim</h4>
+<i>Principal member of Technical Staff @ Oracle Labs, Redwood Shores, USA
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Jinoh Oh</h4>
+<i>Adobe, USA
+</div>
+</div>
+
+### Ph.D.
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Seongyun Ko</h4>
+<i>Facebook, Menlo Park, USA)
+</div>
+</div>
+
+### Master
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Byeong hoon So</h4>
+</div>
+</div>
+
+
+<div class="row" style="text-align:center">
+Before Aug. 2013 (Students supervised at Kyungpook National University)
+</div>
+
+### Post-docs
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Romans Kasperovics</h4> 
+<i>Developer @ SAP, Germany
+</div>
+</div>
+
+### Ph.D.
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jinsoo Lee</h4> 
+<i>Principal member of Technical Staff, Oracle Labs, Redwood Shores, USA
+</div>
+</div>
+
+### Researcher
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Junyoung Kim</h4> 
+<i>Columbia University, USA
+</div>
+</div>
+
+### Master
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Won-Sik Kim</h4>
+<i>Kakao, Korea
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Seon-Hyo Kim</h4>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Je-Yong Shin</h4>
+<i>Samsung Inc.
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Woo-Seong Kwak</h4>
+<i>Korea Color Steel Corp., Korea(CEO)
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sungjin Lee</h4>
+<i>GS itm
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Pham Minh Duc</h4>
+<i>CWI, Netherland
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sungmun Chung</h4>
+<i>Hyundai MnSoft, Korea
+</div>
+
+
+<div class="col-sm-6 clearfix">
+<h4>Sunji Kim</h4>
+<i>Wemade, Korea
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sang-Yeon Lee</h4>
+<i>Senior software engineer, Microsoft, USA
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Kyung-Yul Park</h4>
+<i>SAP Labs, Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Phi-Minh-Tri Nguyen</h4>
+<i>Virginia Tech Uni., USA
+</div>
+</div>
+
+### Undergrads
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jaehwa Kim</h4>
+<i>SAP Labs, Korea
+</div>
+
+
+<div class="col-sm-6 clearfix">
+<h4>Min Yu</h4>
+<i>SAP Labs, Korea
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Changhyun Min</h4>
+<i>Amazon, Canada
+</div>
+</div>
+
+### Honorary members
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jeong-Ki Park</h4>
+<i>Kyungpook National Univ., Korea
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>KyoungHun Kim</h4>
+<i>Kyungpook National Univ., Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Trong-Dat Nguyen</h4>
+<i>Sungkyunkwan Univ., Korea
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Joong-Won Hwang</h4>
+<i>We make price, Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Thanh-Hieu Bui</h4>
+<i>Kyungpook National Univ., Korea
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Chang-Uk Kwak</h4>
+<i>ETRI
+</div>
+</div>
 
 <!--
 ## Alumni

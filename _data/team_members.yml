@@ -1,0 +1,128 @@
+- name: HyeonJi Kim
+  photo: hjkim.jpeg
+  info: PhD (integrated), started March 2016
+  email: hjkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: In Seo
+  photo: iseo.jpeg
+  info: PhD (integrated), started March 2016
+  email: iseo@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: KyoungMin Kim
+  photo: kmkim.jpeg
+  info: PhD (integrated), started (TODO)
+  email: kmkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: DoYup Lee
+  photo: dylee.jpeg
+  info: PhD (integrated), started March 2016
+  email: dylee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: SeungMin Lee
+  photo: smlee.jpeg
+  info: PhD (integrated), started March 2017
+  email: smlee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pusan National University, South Korea
+
+- name: TaeSung Lee
+  photo: tslee.jpeg
+  info: PhD (integrated), started March 2017
+  email: tslee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+  
+- name: YuKyung Lee
+  photo: yklee.jpeg
+  info: PhD (integrated), started March 2017
+  email: yklee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: YeonSu Park
+  photo: yspark.jpeg
+  info: PhD (integrated), started March 2018
+  email: yspark@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, SungKyunKwan University, South Korea
+
+- name: KiJae Hong
+  photo: kjhong.png
+  info: PhD (integrated), started March 2018
+  email: kjhong@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: WonSeok Lee
+  photo: wslee.jpeg
+  info: PhD (integrated), started September 2018
+  email: wslee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: HyukKyu Kang
+  photo: hkkang.jpeg
+  info: PhD (integrated), started September 2019
+  email: hkkang@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: InHyuk Na
+  photo: ihna.png
+  info: PhD (integrated), started September 2019
+  email: ihna@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: JaeJin Kim
+  photo: jjkim.jpg
+  info: PhD (integrated), started September 2021
+  email: jjkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+  
+- name: JungHo Cho
+  photo: jhcho.jpeg
+  info: Master, started September 2018
+  email: jhcho@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: MinWoo Kim
+  photo: mwkim.jpeg
+  info: Master, started March 2020
+  email: mwkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Ajou Univeristy, South Korea
+
+- name: JiSung Jung
+  photo: jsjeong.jpeg
+  info: Master, started September 2020
+  email: jsjeong@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Hanyang University ERICA, South Korea
+
+- name: JeongEun Ha
+  photo: jeha.jpeg
+  info: Mster, started March 2021
+  email: jeha@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: "This could be you !"
+  photo: rock.jpeg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
