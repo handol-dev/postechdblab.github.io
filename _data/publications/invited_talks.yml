@@ -1,16 +1,38 @@
-- authors: ''
-  description: ''
+- ISSN: null
+  authors: null
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ''
-    url: ''
-  title: Efficient Evaluation of Partial Match Queries for XML Documents Using Information Retrieval Techniques IBM Almaden Research Center, USA, Apr. 2006.
-- authors: ''
-  description: ''
+  image: null
+  info: ACM SIGMOD, China
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Jun.
+  title: Natural Language Exploration with Relational Databases in Chatbot
+  year: 2021
+
+- ISSN: null
+  authors: null
+  description: null
   highlight: 0
-  image: ''
-  link:
-    display: ''
-    url: ''
-  title: Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs, IBM Almaden Research Lab, July 2001.
+  image: null
+  info: IBM Almaden Research Center, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Apr.
+  title: Efficient Evaluation of Partial Match Queries for XML Documents Using Information Retrieval Techniques 
+  year: 2006
+
+- ISSN: null
+  authors: null
+  description: null
+  highlight: 0
+  image: null
+  info: IBM Almaden Research Lab
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Jul.
+  title: Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs
+  year: 2006
