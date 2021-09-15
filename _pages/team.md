@@ -8,16 +8,16 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
 
 
-Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students).
+Jump to [Professor](#professor), [Research Professor](#research-professor), [Post Doc.](#post-doc), [Ph.D. and Master Students](#phd-and-master-students), [Bachelor Students](#bachelor-students), [Alumni](#alumni).
 
 ## Professor
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/wshan.jpeg" class="img-responsive" width="20%" style="float: left" />
   <h4>Wook-Shin Han</h4>
   <i>Professor
   <ul style="overflow: hidden">
@@ -209,7 +209,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 ## Administration Staff
 -->
 
-## Alumi
+## Alumni
 
 <div class="row" style="text-align:center;font-size:20px">
 <i>I am proud of having worked with the following students!</i> -- wsh

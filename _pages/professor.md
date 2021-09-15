@@ -182,6 +182,9 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 #### Selected PC Memberships
 
 <div class="row">
+<div class="col-sm-12 clearfix">
+[Full List]({{ site.url }}{{ site.baseurl }}/professor/full_pc_membership)
+</div>
 <ul>
 <li>SIGMOD:  2022, 2021, 2018, 2016, 2014, 2013, 2012, 2010 (demo) </li>
 <li>VLDB: 2020, 2019, 2016, 2015, 2014, 2010, 2010 (demo), 2009 </li>
@@ -244,10 +247,150 @@ Visiting Student, Dept. Computer Science, Stanford University, California, U.S.A
 </ul>
 </div>
 
-### Publications
-
+### Selected Publications
+<div class="row">
+<div class="col-sm-12 clearfix">
 [Full Publications]({{ site.url }}{{ site.baseurl }}/publications), 
-[DBLP](https://dblp.uni-trier.de/pid/62/2450.html)
+[DBLP](https://dblp.uni-trier.de/pid/62/2450.html)<br>
+NOTE: I sometimes place my name in the last of author lists if my name is specified as the corresponding author.  Otherwise, the order in the author list typically reflects the amount of contribution in that order.
+</div>
+</div>
+
+#### 2016 - (to appear)
+
+<div class="row">
+<ul>
+<li>
+Kim, H., Lee, J., Bhowmick, S., <u>Han, W.</u>, Lee, J., Ko, S., and Jarrah, M., "DualSim: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine," In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco, USA, June 2016. (to appear) (Corresponding author)
+</li>
+<li>
+Lee, J., Shin, H., Park, C., Ko, S., Chun, Y., Noh, J., Stephan, W., and <u>Han, W.</u>, "Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA,"  In Proc. 42nd Int'l conf. on Management of Data, ACM SIGMOD, San Francisco, USA, June 2016. (accepted in the first round of reviews in the industrial track) (Corresponding author)
+</li>
+<li>
+Kim, M., Lee, S., <u>Han, W.</u>, Park, H., and Lee, J., "DSP-CC: I/O Efficient Parallel Computation of Connected Components in Billion-scale Networks (Extended Abstract)," In Proc. 32nd Int'l Conf. on Data Engineering (ICDE 2016), Helsinki, Filand, 2016 (invited to TKDE track of ICDE 2016). (Corresponding author) 
+</li>
+</ul>
+</div>
+
+#### 2015
+<div class="row">
+<ul>
+<li>
+Kim, J., Shin, H., <u>Han, W.</u>, Hong, S., and Chafi, H., "Taming Subgraph Isomorphism for RDF Query Processing," In 41st Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 8,  No. 11, pp. 1238-1249, July 2015. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2809985">PDF</a>] (corresponding author)
+</li>
+<li>
+Oh, J., <u>Han, W.</u>, Yu, H., and Jiang, X., "Fast and Robust Parallel SGD Matrix Factorization," In Proc. 21st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Sydney, Australia, Aug. 2015.  (co-corresponding author)
+</li>
+</ul>
+</div>
+
+#### 2014
+<div class="row">
+<ul>
+<li>
+Kim, J., <u>Han, W.</u>, Lee, S., Park, K., and Yu, H., "OPT: A New Framework for Overlapped and Parallel Triangulation in Large-scale Graphs," In Proc. 40th Int'l conf. on Management of Data, ACM SIGMOD, Snowbird, Utah, June 2014. [<a href="http://dl.acm.org/citation.cfm?id=2588563">PDF</a>] (corresponding author)
+</li>
+</ul>
+</div>
+
+#### 2013
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u>, Lee, J., and Lee, J., "TurboISO: Towards UltraFast and Robust Subgraph Isomorphism Search in Large Graph Databases," In Proc. 39th Int'l conf. on Management of Data, ACM SIGMOD, New York, USA, June 2013. [<a href="http://dl.acm.org/citation.cfm?id=2465300">PDF</a>]
+</li>
+<li>
+<u>Han, W.</u>, Lee, S., Park, K., Lee, J., Kim, M., Kim, J. and Yu, H., "TurboGraph: A Fast Parallel Graph Engine Handling Billion-scale Graphs in a Single PC," In Proc. 19th ACM SIGKDD Int'l Conf. on Knowledge Discovery and Data Mining, Chicago, Illinois, Aug. 2013. (oral presentation) [<a href="http://dl.acm.org/citation.cfm?id=2487575.2487581&coll=DL&dl=ACM&CFID=244747254&CFTOKEN=59063050">PDF</a>] [<a href="http://wshan.net/kdd2013/turbograph-kdd.pptx">PPT</a>]
+</li>
+</ul>
+</div>
+
+#### 2012
+<div class="row">
+<ul>
+<li>
+Lee, J., <u>Han, W.</u>, Kasperovics, R., and Lee, J., "An In-depth Comparison of Subgraph Isomorphism Algorithms in Graph Databases," In 39th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 6,  No. 2, pp. 133-144, Dec. 2012. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=2448946">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph2">SOFTWARE</a>] (corresponding author)
+</li>
+</ul>
+</div>
+
+#### 2011
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u>, Lee, J., Moon, Y., Hwang, S., and Yu, H., "A New Approach for Processing Ranked Subsequence Matching Based on Ranked Union," In Proc.  37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece, June 2011. [<a href="http://dl.acm.org/citation.cfm?id=1989371">PDF</a>]
+</li>
+<li>
+<u>Han, W.</u>, Duc, P., Lee, J., Kasperovics, R., and Yu, J., "iGraph in Action: Performance Analysis of Disk-Based Graph Indexing Techniques," In Proc.  37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece, June 2011. (demo) [<a href="http://dl.acm.org/citation.cfm?id=1989464">PDF</a>]
+</li>
+<li>
+Yu, H., Ko, I., Kim, Y., Hwang, S., and <u>Han, W.</u>, "Exact Indexing for Support Vector Machines," In Proc. 37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece, June 2011. [<a href="http://dl.acm.org/citation.cfm?id=1989398">PDF</a>]
+</li>
+</ul>
+</div>
+
+#### 2010
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u>, Lee, J., Duc, P., and Yu, J., "iGraph: A Framework for Comparisons of Disk-based Graph Indexing Techniques," In 36th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 3, No.1, pp.449-459, Sept. 2010. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1920901">PDF</a>] [<a href="https://sites.google.com/a/dblab.postech.ac.kr/postechdblab/home/research/igraph">SOFTWARE</a>] (invited to VLDB Journal as best of VLDB 2010 papers ) 
+</li>
+<li>
+<u>Han, W.</u>, Kwak, W., and Yu, H., "On Supporting Effective Web Extraction," In Proc. 26th Int'l Conf. on Data Engineering (ICDE 2010), Los Angeles, USA, March 2010. (short paper) [<a href="http://www.computer.org/csdl/proceedings/icde/2010/5445/00/05447932-abs.html">PDF</a>] 
+</li>
+</ul>
+</div>
+
+#### 2009
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u> and Lee, J., "Dependency-Aware Reordering for Parallelizing Query Optimization in Multi-Core CPUs," In Proc. 35th Int'l Conf. on Management of Data, ACM SIGMOD, Providence, Rhode Island, June 2009. [<a href="http://dl.acm.org/citation.cfm?id=1559853">PDF</a>] 
+</li>
+</ul>
+</div>  
+
+#### 2008
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u>, Kwak, W., Lee, J., Lohman, G., and Markl, V., "Parallelizing Query Optimization," In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1453882">PDF</a>](extended version)   
+</li>
+<li>
+<u>Han, W.</u>, Jiang, H., Ho, H., and Li, Q. "StreamTX: Extracting Tuples from Streaming XML Data," In 34th Int'l Conf. on Very Large Data Bases (VLDB) / Proc. the VLDB Endowment (PVLDB), Vol. 1, No. 1, Aug. 2008. (ISSN: 2150-8097) [<a href="http://dl.acm.org/citation.cfm?id=1453891">PDF</a>]
+</li>
+</ul>
+</div>
+
+#### 2007
+<div class="row">
+<ul>
+<li>
+<u>Han, W.</u>, Lee, J., Moon, Y., and Jiang, H., "Ranked Subsequence Matching in Time-series Databases," In Proc. 33rd Int'l Conf. on Very Large Data Bases (VLDB), Vienna, Austria, Sept. 2007.  [<a href="http://dl.acm.org/citation.cfm?id=1325902">PDF</a>]
+</li>
+<li>
+<u>Han, W.</u>, Ng, J., Markl, V., Kache, H., and Kandil, M., "Progressive Optimization in a Shared-Nothing Parallel Database," In Proc. 33rd Int'l Conf. on Management of Data, ACM SIGMOD, Beijing, China, June 2007. [<a href="http://dl.acm.org/citation.cfm?id=1247569">PDF</a>]
+</li>
+</ul>
+</div>
+
+#### 2006 and before
+<div class="row">
+<ul>
+<li>
+Kache, H., <u>Han, W.</u>, Markl, V.,Raman, V., and Ewens, S., "POP/FED: Progressive Query Optimization for Federated Queries in DB2," In Proc. 32nd Int'l Conf. on Very large data bases (VLDB), Seoul, Korea, pp. 1175-1178, Sept. 2006. [<a href="http://dl.acm.org/citation.cfm?id=1164237">PDF</a>]
+</li>
+<li>
+Whang, K., Lee, M., Lee, J., Kim, M., and <u>Han, W.</u>, "Odysseus: a High-Performance ORDBMS Tightly-Coupled with IR Features," In Proc. the 21st IEEE Int'l Conf. on Data Engineering (ICDE), Tokyo, Japan, Apr. 2005. (demo) (Best Demo Award) [<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1410222&tag=1">PDF</a>]
+</li>
+<li>
+Moon, Y., Whang, K., and <u>Han, W.</u>, "General Match: A Subsequence Matching Method in Time-Series Databases Based on Generalized Windows," In Proc. Int'l Conf. on Management of Data, ACM SIGMOD, Madison, Wisconsin, pp. 382-393, June 2002. [<a href="http://dl.acm.org/citation.cfm?id=564735">PDF</a>]
+</li>
+<li>
+<u>Han, W.</u>, Whang, K., Moon, Y., and Song, I., "Prefetching Based on the Type-Level Access Pattern in Object-Relational DBMSs," In Proc. the 17th IEEE Int'l Conf. on Data Engineering (ICDE), Heidelberg, Germany, pp. 651-660, Apr. 2001. [<a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=914880">PDF</a>]
+</li>
+</ul>
+</div>
 
 ### Keynote
 
