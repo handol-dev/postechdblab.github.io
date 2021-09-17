@@ -67,7 +67,7 @@ Please add group highlights
 
 {% endfor %}
 
-## International Conference Proceedingss
+## International Conference Proceedings
 {% assign var_year = 2022 %}
 {% for publi in site.data.publications.international_conference_proceedings %}
   {% if var_year != publi.year and var_year > year_until%}
