@@ -22,7 +22,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
   <h4>Wook-Shin Han</h4>
   <i>Professor
   <ul style="overflow: hidden">
-  <li><a href="{{ site.url }}{{ site.baseurl }}/professor">Detailed Information</a></li>
+  <li><a href="https://wscrony.github.io/">Detailed Information</a></li>
   </ul>
 </div>
 </div>
