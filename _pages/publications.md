@@ -11,7 +11,10 @@ permalink: /publications/
 
 ## Group highlights
 
-Please add group highlights
+<ul style="overflow: hidden">
+  <li>We have pubished six papers (3 SIGMOD, 2 VLDB, 1 ICDE) in top database conferences in 2021</li>
+  <li>We have published five papers (1 SIGMOD, 4 VLDB) in top database conferences in 2020</li>
+</ul>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
