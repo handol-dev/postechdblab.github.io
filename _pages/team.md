@@ -34,7 +34,7 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <div class="row">
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="140px" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><a href="{{ member.homepage }}">{{ member.name }}</a></h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i>-->
   <ul style="overflow: hidden">
 
