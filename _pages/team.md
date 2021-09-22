@@ -237,7 +237,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Seongyun Ko</h4>
-<i>Facebook, Menlo Park, USA)
+<i>Facebook, Menlo Park, USA
 </div>
 </div>
 
@@ -256,8 +256,8 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 ### Post-docs
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Romans Kasperovics</h4> 
-<i>Developer @ SAP, Germany
+<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
+<i>Senior Developer @ SAP, Germany
 </div>
 </div>
 
@@ -272,13 +272,23 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 ### Researcher
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Junyoung Kim</h4> 
-<i>Columbia University, USA
+<h4><a href="https://lmanikon.github.io">Lydia Manikonda</a></h4> 
+<i>Assistant Professor @ Rensselaer Polytechnic Institute, USA
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Pham Minh Duc</h4> 
+<i>CWI, Netherland
 </div>
 </div>
 
 ### Master
 <div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Junyoung Kim</h4> 
+<i>Columbia University, USA
+</div>
+
 <div class="col-sm-6 clearfix">
 <h4>Won-Sik Kim</h4>
 <i>Kakao, Korea
@@ -332,7 +342,7 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Sang-Yeon Lee</h4>
+<h4><a href="https://www.linkedin.com/in/loganleedev-0606/">Sang-Yeon Lee</a></h4>
 <i>Senior software engineer, Microsoft, USA
 </div>
 
