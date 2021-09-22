@@ -228,15 +228,15 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4>Jinoh Oh</h4>
-<i>Adobe, USA
+<h4><a href="https://www.linkedin.com/in/jinohoh/">Jinoh Oh</a></h4>
+<i>Applied Scientist, Alexa AI, Amazon
 </div>
 </div>
 
 ### Ph.D.
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Seongyun Ko</h4>
+<h4><a href="https://www.linkedin.com/in/seongyun-ko-7aa698b2/">Seongyun Ko</a></h4>
 <i>Facebook, Menlo Park, USA
 </div>
 </div>
@@ -264,7 +264,7 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 ### Ph.D.
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Jinsoo Lee</h4> 
+<h4><a href="https://www.linkedin.com/in/jinsoo-lee-570275122/">Jinsoo Lee</a></h4> 
 <i>Principal member of Technical Staff, Oracle Labs, Redwood Shores, USA
 </div>
 </div>
