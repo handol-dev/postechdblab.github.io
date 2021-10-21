@@ -12,6 +12,18 @@
   title: 'iTurboGraph: Scaling and Automating Incremental Graph Analytics'
   year: 2021
 - ISSN: null
+  authors: Tak, B. and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., the 22nd ACM/IFIP International Middleware Conference, Québec, Canada
+  is_co-corresponding_author: false
+  is_corresponding_author: false
+  link: null
+  month: Dec.
+  title: 'Lognroll: Discovering Accurate Log Templates by Iterative Filtering'
+  year: 2021
+- ISSN: null
   authors: Kim, K., Kim, H., Fletcher, G., and Han, W.
   description: null
   highlight: 0
