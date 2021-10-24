@@ -5,7 +5,7 @@
   image: null
   info: In Proc., 22nd ACM/IFIP International Middleware Conference, Québec, Canada
   is_co-corresponding_author: false
-  is_corresponding_author: false
+  is_corresponding_author: true
   link: null
   month: Dec.
   title: 'Lognroll: Discovering Accurate Log Templates by Iterative Filtering'
