@@ -1,4 +1,16 @@
 - ISSN: null
+  authors: Gu, G., Nam, Y., Park, K., Galil, Z., Italiano, G., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info: In Proc., 38th International Conference on Data Engineering, (Virtual) Kuala Lumpur, Malaysia
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  link: null
+  month: Dec.
+  title: 'Efficient Graph Isomorphism Query Processing using Degree Sequences and Color-Label Distributions'
+  year: 2022
+- ISSN: null
   authors: Tak, B. and Han, W.
   description: null
   highlight: 0
