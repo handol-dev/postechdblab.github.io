@@ -57,7 +57,7 @@ permalink: /publications/
 {% assign year_until = 2012%}
 
 ## International Journals
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_journals %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -71,7 +71,7 @@ permalink: /publications/
 {% endfor %}
 
 ## International Conference Proceedings
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_conference_proceedings %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -85,7 +85,7 @@ permalink: /publications/
 {% endfor %}
 
 ## Others
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.others %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -100,7 +100,7 @@ permalink: /publications/
 {% endfor %}
 
 ## Domestic Journals
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_journals %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -116,7 +116,7 @@ permalink: /publications/
 
 
 ## Domestic Conference Proceedings
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_conference_proceedings %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -131,7 +131,7 @@ permalink: /publications/
 {% endfor %}
 
 ## International Patents
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.international_patents %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
@@ -145,7 +145,7 @@ permalink: /publications/
 
 {% endfor %}
 ## Domestic Patents
-{% assign var_year = 2022 %}
+{% assign var_year = 2030 %}
 {% for publi in site.data.publications.domestic_patents %}
   {% if var_year != publi.year and var_year > year_until%}
   **{{ publi.year }}** <br />
