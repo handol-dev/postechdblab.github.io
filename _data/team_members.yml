@@ -30,14 +30,6 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
-- name: SeungMin Lee
-  homepage: https://sml0127.github.io/ 
-  photo: smlee.jpeg
-  info: PhD (integrated), started March 2017
-  email: smlee@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pusan National University, South Korea
-
 - name: TaeSung Lee
   homepage: https://sites.google.com/dblab.postech.ac.kr/tslee
   photo: tslee.jpeg
@@ -102,22 +94,14 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
   
-- name: JungHo Cho
-  homepage: https://jhcho-dblab-postech.github.io/
-  photo: jhcho.jpeg
-  info: Master, started September 2018
-  email: jhcho@dblab.postech.ac.kr
+- name: Jae Hyun Ha
+  homepage: https://rntlqvnf.github.io/research/cv/
+  photo: jhha.jpeg
+  info: PhD (integrated), started March 2022
+  email: jhha@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: MinWoo Kim
-  homepage: https://sites.google.com/dblab.postech.ac.kr/home
-  photo: mwkim.jpeg
-  info: Master, started March 2020
-  email: mwkim@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Ajou Univeristy, South Korea
-
+  
 - name: JiSung Jung
   homepage: https://jsjeong-dblab.github.io/jsjeong.github.io/
   photo: jsjeong.jpeg
