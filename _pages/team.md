@@ -216,9 +216,9 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 <i>I am proud of having worked with the following students!</i> -- wsh
 </div>
 
-<div class="row" style="text-align:center">
+<!--<div class="row" style="text-align:center">
 After Aug. 2013 (after Prof. Han moved to POSTECH)
-</div>
+</div>//-->
 
 ### Post-docs and Researchers
 <div class="row">
