@@ -247,7 +247,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4>Byeong hoon So</h4>
 </div>
   
-<div class="row">
 <div class="col-sm-6 clearfix">
 <h4>JungHo Cho</h4>
 </div>
@@ -258,7 +257,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4>MinWoo Kim</h4>
 </div>
   
-<div class="row">
 <div class="col-sm-6 clearfix">
 <h4>SeungMin Lee</h4>
 </div>
