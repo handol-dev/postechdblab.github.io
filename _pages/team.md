@@ -232,6 +232,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Applied Scientist, Alexa AI, Amazon
 </div>
 </div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
+<i>Senior Developer @ SAP, Germany
+</div>
+</div>  
 
 ### Ph.D.
 <div class="row">
@@ -263,9 +270,9 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>  
 
 
-<div class="row" style="text-align:center">
+<!-- <div class="row" style="text-align:center">
 Before Aug. 2013 (Students supervised at Kyungpook National University)
-</div>
+</div> //-->
 
 ### Post-docs
 <div class="row">
