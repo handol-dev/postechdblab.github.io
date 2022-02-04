@@ -258,7 +258,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
   
 
-### Ph.D.
+### PhDs
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/seongyun-ko-7aa698b2/">Seongyun Ko</a></h4>
@@ -272,7 +272,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
   
 
-### Master
+### MSs
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Byeong hoon So</h4>
