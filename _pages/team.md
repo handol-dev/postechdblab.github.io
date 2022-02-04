@@ -255,7 +255,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
   
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>MinWoo Kim/h4>
+<h4>MinWoo Kim</h4>
 </div>
   
 <div class="row">
