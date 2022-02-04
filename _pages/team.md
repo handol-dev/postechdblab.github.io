@@ -238,6 +238,18 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
 <i>Senior Developer @ SAP, Germany
 </div>
+  
+<div class="col-sm-6 clearfix">
+<h4><a href="https://lmanikon.github.io">Lydia Manikonda</a></h4> 
+<i>Assistant Professor @ Rensselaer Polytechnic Institute, USA
+</div>
+</div>
+
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4>Pham Minh Duc</h4> 
+<i>CWI, Netherland
+</div>
 </div>  
 
 ### Ph.D.
@@ -246,7 +258,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4><a href="https://www.linkedin.com/in/seongyun-ko-7aa698b2/">Seongyun Ko</a></h4>
 <i>Facebook, Menlo Park, USA
 </div>
+  
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/jinsoo-lee-570275122/">Jinsoo Lee</a></h4> 
+<i>Principal member of Technical Staff, Oracle Labs, Redwood Shores, USA
 </div>
+</div>
+  
 
 ### Master
 <div class="row">
@@ -269,11 +287,88 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>  
 
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Junyoung Kim</h4> 
+<i>Columbia University, USA
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Won-Sik Kim</h4>
+<i>Kakao, Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Seon-Hyo Kim</h4>
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Je-Yong Shin</h4>
+<i>Samsung Inc.
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Woo-Seong Kwak</h4>
+<i>Korea Color Steel Corp., Korea(CEO)
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Sungjin Lee</h4>
+<i>GS itm
+</div>
+</div>
+ 
+<!--
+<div class="col-sm-6 clearfix">
+<h4>Pham Minh Duc</h4>
+<i>CWI, Netherland
+</div>
+</div>
+//-->
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Sungmun Chung</h4>
+<i>Hyundai MnSoft, Korea
+</div>
+
+
+<div class="col-sm-6 clearfix">
+<h4>Sunji Kim</h4>
+<i>Wemade, Korea
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/loganleedev-0606/">Sang-Yeon Lee</a></h4>
+<i>Senior software engineer, Microsoft, USA
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Kyung-Yul Park</h4>
+<i>SAP Labs, Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Phi-Minh-Tri Nguyen</h4>
+<i>Virginia Tech Uni., USA
+</div>
+</div>  
+  
 
 <!-- <div class="row" style="text-align:center">
 Before Aug. 2013 (Students supervised at Kyungpook National University)
 </div> //-->
 
+<!--  
 ### Post-docs
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -281,16 +376,18 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <i>Senior Developer @ SAP, Germany
 </div>
 </div>
+//-->
 
-### Ph.D.
+<!-- ### Ph.D.
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/jinsoo-lee-570275122/">Jinsoo Lee</a></h4> 
 <i>Principal member of Technical Staff, Oracle Labs, Redwood Shores, USA
 </div>
-</div>
+</div> //-->
 
-### Researcher
+
+<!-- ### Researcher
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4><a href="https://lmanikon.github.io">Lydia Manikonda</a></h4> 
@@ -301,8 +398,9 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <h4>Pham Minh Duc</h4> 
 <i>CWI, Netherland
 </div>
-</div>
+</div> //-->
 
+<!--
 ### Master
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -379,7 +477,9 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <i>Virginia Tech Uni., USA
 </div>
 </div>
+//-->
 
+<!--  
 ### Undergrads
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -401,6 +501,7 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <i>Amazon, Canada
 </div>
 </div>
+//-->
 
 ### Honorary members
 
@@ -439,6 +540,27 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <i>ETRI
 </div>
 </div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jaehwa Kim</h4>
+<i>SAP Labs, Korea
+</div>
+
+
+<div class="col-sm-6 clearfix">
+<h4>Min Yu</h4>
+<i>SAP Labs, Korea
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Changhyun Min</h4>
+<i>Amazon, Canada
+</div>
+</div>  
 
 <!--
 ## Alumni
