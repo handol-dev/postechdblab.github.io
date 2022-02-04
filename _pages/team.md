@@ -515,7 +515,7 @@ Before Aug. 2013 (Students supervised at Kyungpook National University)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Jeong-Ki Park</h4>
-<i>Kyungpook National Univ., Korea
+<i>POSTECH, Korea
 </div>
 
 <div class="col-sm-6 clearfix">
