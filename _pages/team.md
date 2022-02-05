@@ -255,6 +255,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4>Junyoung Kim</h4> 
 <i>Columbia University, USA
 </div>
+</div>
   
 
 ### PhDs
