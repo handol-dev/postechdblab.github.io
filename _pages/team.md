@@ -231,9 +231,9 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4><a href="https://www.linkedin.com/in/jinohoh/">Jinoh Oh</a></h4>
 <i>Applied Scientist, Alexa AI, Amazon
 </div>
-</div>
+<!-- </div>
   
-<div class="row">
+<div class="row"> //-->
 <div class="col-sm-6 clearfix">
 <h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
 <i>Senior Developer @ SAP, Germany
@@ -243,9 +243,9 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <h4><a href="https://lmanikon.github.io">Lydia Manikonda</a></h4> 
 <i>Assistant Professor @ Rensselaer Polytechnic Institute, USA
 </div>
-</div>
+<!-- </div>
 
-<div class="row">  
+<div class="row"> //-->  
 <div class="col-sm-6 clearfix">
 <h4>Pham Minh Duc</h4> 
 <i>CWI, Netherland
@@ -254,7 +254,6 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="col-sm-6 clearfix">
 <h4>Junyoung Kim</h4> 
 <i>Columbia University, USA
-</div>
 </div>
   
 
