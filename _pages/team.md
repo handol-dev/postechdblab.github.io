@@ -276,16 +276,19 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Byeong hoon So</h4>
+<i> Skelter Labs
 </div>
   
 <div class="col-sm-6 clearfix">
 <h4>JungHo Cho</h4>
+<i> Upstage  
 </div>
 </div>
   
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>MinWoo Kim</h4>
+<i> SelectStar
 </div>
   
 <div class="col-sm-6 clearfix">
@@ -309,6 +312,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 
 <div class="col-sm-6 clearfix">
 <h4>Seon-Hyo Kim</h4>
+<i> Lecturer
 </div>
 </div>
   
