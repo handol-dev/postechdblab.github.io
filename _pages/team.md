@@ -235,13 +235,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
-<div class="row">
+<div class="row">  
 <div class="col-sm-6 clearfix">
-<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
-<i>Senior Developer @ SAP, Germany
+<h4>Junyoung Kim</h4> 
+<i>Columbia University, USA
 </div>
 </div>
-  
+
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4><a href="https://lmanikon.github.io">Lydia Manikonda</a></h4> 
@@ -256,13 +256,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
-<div class="row">  
+<div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Junyoung Kim</h4> 
-<i>Columbia University, USA
+<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
+<i>Senior Developer @ SAP, Germany
 </div>
 </div>
-  
+      
 
 ### PhDs
 <div class="row">
