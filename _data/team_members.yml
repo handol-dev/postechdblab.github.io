@@ -1,27 +1,3 @@
-- name: HyeonJi Kim
-  homepage: https://hjkim-postechdblab.github.io
-  photo: hjkim.jpeg
-  info: PhD (integrated), started March 2016
-  email: hjkim@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: In Seo
-  homepage: https://iseo-dblab.github.io/
-  photo: iseo.jpeg
-  info: PhD (integrated), started March 2016
-  email: iseo@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: KyoungMin Kim
-  homepage: https://sites.google.com/dblab.postech.ac.kr/kmkim
-  photo: kmkim.jpeg
-  info: PhD (integrated), started March 2017
-  email: kmkim@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
 - name: DoYup Lee
   homepage: https://www.linkedin.com/in/doyuplee
   photo: dylee.jpeg
@@ -30,43 +6,11 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
-- name: TaeSung Lee
-  homepage: https://sites.google.com/dblab.postech.ac.kr/tslee
-  photo: tslee.jpeg
-  info: PhD (integrated), started March 2017
-  email: tslee@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-  
-- name: YuKyung Lee
-  homepage: https://yukyounglee.github.io/online-cv/
-  photo: yklee.jpeg
-  info: PhD (integrated), started March 2017
-  email: yklee@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: YeonSu Park
-  homepage: https://yspark-dblab.github.io/
-  photo: yspark.jpeg
-  info: PhD (integrated), started March 2018
-  email: yspark@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, SungKyunKwan University, South Korea
-
-- name: KiJae Hong
-  homepage: https://sites.google.com/dblab.postech.ac.kr/kjhong
-  photo: kjhong.png
-  info: PhD (integrated), started March 2018
-  email: kjhong@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-
-- name: WonSeok Lee
-  homepage: https://wslee2265.github.io/online-cv/ 
-  photo: wslee.jpeg
-  info: PhD (integrated), started September 2018
-  email: wslee@dblab.postech.ac.kr
+- name: HyeonJi Kim
+  homepage: https://hjkim-postechdblab.github.io
+  photo: hjkim.jpeg
+  info: PhD (integrated), started March 2016
+  email: hjkim@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
@@ -78,11 +22,27 @@
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
+- name: In Seo
+  homepage: https://iseo-dblab.github.io/
+  photo: iseo.jpeg
+  info: PhD (integrated), started March 2016
+  email: iseo@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
 - name: InHyuk Na
   homepage: https://inyukwo1.github.io/inhyuk.github.io/
   photo: ihna.png
   info: PhD (integrated), started September 2019
   email: ihna@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: Jae Hyun Ha
+  homepage: https://rntlqvnf.github.io/research/cv/
+  photo: jhha.jpeg
+  info: PhD (integrated), started March 2022
+  email: jhha@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
 
@@ -93,15 +53,63 @@
   email: jjkim@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
-  
-- name: Jae Hyun Ha
-  homepage: https://rntlqvnf.github.io/research/cv/
-  photo: jhha.jpeg
-  info: PhD (integrated), started March 2022
-  email: jhha@dblab.postech.ac.kr
+
+- name: KiJae Hong
+  homepage: https://sites.google.com/dblab.postech.ac.kr/kjhong
+  photo: kjhong.png
+  info: PhD (integrated), started March 2018
+  email: kjhong@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: KyoungMin Kim
+  homepage: https://sites.google.com/dblab.postech.ac.kr/kmkim
+  photo: kmkim.jpeg
+  info: PhD (integrated), started March 2017
+  email: kmkim@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: TaeSung Lee
+  homepage: https://sites.google.com/dblab.postech.ac.kr/tslee
+  photo: tslee.jpeg
+  info: PhD (integrated), started March 2017
+  email: tslee@dblab.postech.ac.kr
   number_educ: 1
   education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
   
+- name: WonSeok Lee
+  homepage: https://wslee2265.github.io/online-cv/ 
+  photo: wslee.jpeg
+  info: PhD (integrated), started September 2018
+  email: wslee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
+- name: YeonSu Park
+  homepage: https://yspark-dblab.github.io/
+  photo: yspark.jpeg
+  info: PhD (integrated), started March 2018
+  email: yspark@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, SungKyunKwan University, South Korea
+
+- name: YuKyung Lee
+  homepage: https://yukyounglee.github.io/online-cv/
+  photo: yklee.jpeg
+  info: PhD (integrated), started March 2017
+  email: yklee@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+  
+- name: JeongEun Ha
+  homepage: https://jeha-dblab.github.io/
+  photo: jeha.jpeg
+  info: Master, started March 2021
+  email: jeha@dblab.postech.ac.kr
+  number_educ: 1
+  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
+
 - name: JiSung Jung
   homepage: https://jsjeong-dblab.github.io/jsjeong.github.io/
   photo: jsjeong.jpeg
@@ -110,10 +118,3 @@
   number_educ: 1
   education1: Bachelor, Hanyang University ERICA, South Korea
 
-- name: JeongEun Ha
-  homepage: https://jeha-dblab.github.io/
-  photo: jeha.jpeg
-  info: Master, started March 2021
-  email: jeha@dblab.postech.ac.kr
-  number_educ: 1
-  education1: Bachelor, Pohang University of Science and Technology (POSTECH), South Korea
