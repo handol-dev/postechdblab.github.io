@@ -382,22 +382,29 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 ### Honorary members
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Jeong-Ki Park</h4>
-<i>POSTECH, Korea
+<h4>Changhyun Min</h4>
+<i>Amazon, Canada
 </div>
-</div>
-  
+</div>  
+
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>KyoungHun Kim</h4>
-<i>Kyungpook National Univ., Korea
+<h4>Chang-Uk Kwak</h4>
+<i>ETRI
 </div>
 </div>
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Trong-Dat Nguyen</h4>
-<i>Sungkyunkwan Univ., Korea
+<h4>Jaehwa Kim</h4>
+<i>SAP Labs, Korea
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Jeong-Ki Park</h4>
+<i>POSTECH, Korea
 </div>
 </div>
   
@@ -410,25 +417,11 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Thanh-Hieu Bui</h4>
+<h4>KyoungHun Kim</h4>
 <i>Kyungpook National Univ., Korea
 </div>
 </div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Chang-Uk Kwak</h4>
-<i>ETRI
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Jaehwa Kim</h4>
-<i>SAP Labs, Korea
-</div>
-</div>
-  
+
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Min Yu</h4>
@@ -438,10 +431,18 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Changhyun Min</h4>
-<i>Amazon, Canada
+<h4>Thanh-Hieu Bui</h4>
+<i>Kyungpook National Univ., Korea
 </div>
-</div>  
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Trong-Dat Nguyen</h4>
+<i>Sungkyunkwan Univ., Korea
+</div>
+</div>
+        
 
 <!--
 ## Alumni
