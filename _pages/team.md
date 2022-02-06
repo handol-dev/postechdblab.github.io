@@ -234,6 +234,13 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Applied Scientist, Alexa AI, Amazon
 </div>
 </div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
+<i>Senior Developer @ SAP, Germany
+</div>
+</div>  
   
 <div class="row">  
 <div class="col-sm-6 clearfix">
@@ -256,22 +263,8 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4><a href="https://de.linkedin.com/in/romans-kasperovics-355a239">Romans Kasperovics</a></h4> 
-<i>Senior Developer @ SAP, Germany
-</div>
-</div>
-      
 
 ### PhDs
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4><a href="https://www.linkedin.com/in/seongyun-ko-7aa698b2/">Seongyun Ko</a></h4>
-<i>Facebook, Menlo Park, USA
-</div>
-</div>
-  
 <div class="row">  
 <div class="col-sm-6 clearfix">
 <h4><a href="https://www.linkedin.com/in/jinsoo-lee-570275122/">Jinsoo Lee</a></h4> 
@@ -279,46 +272,19 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
-
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/seongyun-ko-7aa698b2/">Seongyun Ko</a></h4>
+<i>Facebook, Menlo Park, USA
+</div>
+</div>
+  
+  
 ### MSs
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Byeong hoon So</h4>
 <i> Skelter Labs
-</div>
-</div>
-  
-<div class="row">  
-<div class="col-sm-6 clearfix">
-<h4>JungHo Cho</h4>
-<i> Upstage  
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>MinWoo Kim</h4>
-<i> SelectStar
-</div>
-</div>
-  
-<div class="row">  
-<div class="col-sm-6 clearfix">
-<h4>SeungMin Lee</h4>
-</div>
-</div>  
-
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Won-Sik Kim</h4>
-<i>Kakao, Korea
-</div>
-</div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4>Seon-Hyo Kim</h4>
-<i>Lecturer
 </div>
 </div>
   
@@ -329,12 +295,53 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 </div>
 </div>
   
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4>JungHo Cho</h4>
+<i> Upstage  
+</div>
+</div>
+
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Woo-Seong Kwak</h4>
-<i>Korea Color Steel Corp., Korea(CEO)
+<h4>Kyung-Yul Park</h4>
+<i>SAP Labs, Korea
 </div>
 </div>
+   
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>MinWoo Kim</h4>
+<i> SelectStar
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Phi-Minh-Tri Nguyen</h4>
+<i>Virginia Tech Uni., USA
+</div>
+</div>  
+    
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4><a href="https://www.linkedin.com/in/loganleedev-0606/">Sang-Yeon Lee</a></h4>
+<i>Senior software engineer, Microsoft, USA
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Seon-Hyo Kim</h4>
+<i>Lecturer
+</div>
+</div>  
+
+<div class="row">  
+<div class="col-sm-6 clearfix">
+<h4>SeungMin Lee</h4>
+</div>
+</div>  
 
 <div class="row">
 <div class="col-sm-6 clearfix">
@@ -342,7 +349,7 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>GS itm
 </div>
 </div>
-     
+
 <div class="row">
 <div class="col-sm-6 clearfix">
 <h4>Sungmun Chung</h4>
@@ -356,28 +363,21 @@ After Aug. 2013 (after Prof. Han moved to POSTECH)
 <i>Wemade, Korea
 </div>
 </div>
-  
-<div class="row">
-<div class="col-sm-6 clearfix">
-<h4><a href="https://www.linkedin.com/in/loganleedev-0606/">Sang-Yeon Lee</a></h4>
-<i>Senior software engineer, Microsoft, USA
-</div>
-</div>
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Kyung-Yul Park</h4>
-<i>SAP Labs, Korea
+<h4>Won-Sik Kim</h4>
+<i>Kakao, Korea
 </div>
 </div>
-  
+    
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Phi-Minh-Tri Nguyen</h4>
-<i>Virginia Tech Uni., USA
+<h4>Woo-Seong Kwak</h4>
+<i>Korea Color Steel Corp., Korea(CEO)
 </div>
-</div>  
-
+</div>
+    
 
 ### Honorary members
 <div class="row">
