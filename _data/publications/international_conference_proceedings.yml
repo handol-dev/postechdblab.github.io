@@ -5,7 +5,7 @@
   image: null
   info:  In Proc., 48th Int'l Conf. on Management of Data, ACM SIGMOD, Philadelphia, USA
   is_co-corresponding_author: false
-  is_corresponding_author: true
+  is_corresponding_author: false
   is_demo: true
   link: null
   month: June
