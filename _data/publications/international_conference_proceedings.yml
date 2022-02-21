@@ -1,17 +1,4 @@
 - ISSN: null
-  authors: Han, W., Duc, P., Lee, J., Kasperovics, R., and yu, J.
-  description: null
-  highlight: 0
-  image: null
-  info: "In Proc., 37th Int'l Conf. on Management of Data, ACM SIGMOD, Athens, Greece"
-  is_co-corresponding_author: false
-  is_corresponding_author: true
-  link: null
-  month: Jun.
-  title: 'iGraph in Action: Performance Analysis of Disk-Based Graph Indexing Techniques'
-  year: 2011
-  is_demo: true
-- ISSN: null
   authors: Gu, G., Nam, Y., Park, K., Galil, Z., Italiano, G., and Han, W.
   description: null
   highlight: 0
