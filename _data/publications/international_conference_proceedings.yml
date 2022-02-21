@@ -1,4 +1,17 @@
 - ISSN: null
+  authors: Yuan, Z., Chua, H., Bhowmick, S., Ye, Z., Choi, B., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info:  In Proc., 48th Int'l Conf. on Management of Data, ACM SIGMOD, Philadelphia, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: true
+  link: null
+  month: June
+  title: 'PLAYPEN: Plug-and-Play Visual Graph Query Interfaces for Top-down and Bottom-Up Search on Large Networks'
+  year: 2022
+- ISSN: null
   authors: Gu, G., Nam, Y., Park, K., Galil, Z., Italiano, G., and Han, W.
   description: null
   highlight: 0
