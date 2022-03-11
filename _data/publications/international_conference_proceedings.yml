@@ -1,4 +1,30 @@
 - ISSN: null
+  authors: Kim, K., Jeong, J., Seo, I., Han, W., Choi, K., and Chong, J.
+  description: null
+  highlight: 0
+  image: null
+  info:  In Proc., 48th Int'l Conf. on Management of Data, ACM SIGMOD, Philadelphia, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: June
+  title: 'Learned Cardinality Estimation: An In-depth Study'
+  year: 2022
+- ISSN: null
+  authors: Lee, D., Kim, C., Kim, S., Cho, M., and Han, W.
+  description: null
+  highlight: 0
+  image: null
+  info:  In Proc., IEEE Conf. on Computer Vision and Pattern Recognition, CVPR 2022, Louisiana, USA
+  is_co-corresponding_author: false
+  is_corresponding_author: true
+  is_demo: false
+  link: null
+  month: June
+  title: 'Autoregressive Image Generation using Residual Quantization'
+  year: 2022
+- ISSN: null
   authors: Yuan, Z., Chua, H., Bhowmick, S., Ye, Z., Choi, B., and Han, W.
   description: null
   highlight: 0
