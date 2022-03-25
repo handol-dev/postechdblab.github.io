@@ -179,32 +179,26 @@ Jump to [Professor](#professor), [Research Professor](#research-professor), [Pos
 
 
 ## Bachelor Students
-{% assign number_printed = 0 %}
-{% for member in site.data.students %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+<h4>EunIk Park</h4>
+<i>Bachelor Student
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>JinHo Ko</h4>
+<i>Bachelor Student
 </div>
-{% endif %}
+</div>
+  
+<div class="row">
+<div class="col-sm-6 clearfix">
+<h4>Joohyung Yun</h4>
+<i>Bachelor Student
+</div>
+</div>  
 
 <!--
 ## Administration Staff
