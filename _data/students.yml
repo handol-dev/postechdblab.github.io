@@ -8,10 +8,11 @@
 #  education3:
 #  education4:
 
+- name: EunIk Park
+  info: Bachelor Student
+  email: eipark@dblab.postech.ac.kr
+
 - name: JinHo Ko
   info: Bachelor Student
   email: jhko@dblab.postech.ac.kr
 
-- name: EunIk Park
-  info: Bachelor Student
-  email: eipark@dblab.postech.ac.kr
